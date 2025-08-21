@@ -1,0 +1,30 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-dea-rescheduling-2025-01-19",
+    "title": "NuggMD Cannabis Consumer Poll - DEA Cannabis Rescheduling Trust",
+    "date_conducted": "January 16 - January 19, 2025",
+    "sample_size": 677,
+    "methodology": "Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets"
+  },
+  "questions": [
+    {
+      "question_id": "dea_rescheduling_trust",
+      "question_text": "The Drug Enforcement Administration has been called out for allegedly working to oppose the cannabis rescheduling proposal. Do you trust the DEA to be an unbiased proponent for cannabis rescheduling?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Yes": 4,
+        "No": 96
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±3.77%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}
