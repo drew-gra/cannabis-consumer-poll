@@ -1,0 +1,38 @@
+NuggMD Cannabis Consumer Poll
+June 26 - June 29, 2025
+Sample: 378 respondents | Margin of error: ±5.04%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION: In a typical year, how frequently do you intentionally stop using cannabis for a period of time to reset your tolerance?
+
+RESULTS:
+56% - Never
+15% - 2-3 times
+10% - 6 times or more
+9% - Once
+9% - 4-5 times
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY: 
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: andrew.g@getnugg.com
+Full data and methodology: https://github.com/drew-gra/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative 
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/drew-gra/cannabis-consumer-poll
+Website: https://www.nuggmd.com/cannabis-consumer-polling

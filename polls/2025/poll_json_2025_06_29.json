@@ -1,0 +1,33 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-cannabis-tolerance-breaks-2025-06-29",
+    "title": "NuggMD Cannabis Consumer Poll - Cannabis Tolerance Break Frequency",
+    "date_conducted": "June 26 - June 29, 2025",
+    "sample_size": 378,
+    "methodology": "Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets"
+  },
+  "questions": [
+    {
+      "question_id": "cannabis_tolerance_breaks",
+      "question_text": "In a typical year, how frequently do you intentionally stop using cannabis for a period of time to reset your tolerance?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Never": 56,
+        "Once": 9,
+        "2-3 times": 15,
+        "4-5 times": 9,
+        "6 times or more": 10
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±5.04%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}
