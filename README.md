@@ -8,19 +8,16 @@ The NuggMD Cannabis Consumer Poll surveys a validated, representative sample of 
 
 **Survey Date:** August 7 - August 17  
 **Sample Size:** 479 respondents  
-**Topic:** Consumer trust in cannabis dispensaries to protect their privacy when using customer loyalty programs
+**Topic:** Consumer trust in cannabis dispensaries to protect their privacy when using customer loyalty programs  
 **Margin of Error:** ±4.48% at 95% confidence level  
 
 QUESTION: Do you trust dispensary loyalty programs to protect your privacy?
 
-RESULTS:
-63% - Yes
-37% - No
-
-## Industry Impact
-
-Contact Andrew Graham, NuggMD head of communications, at andrew.g@getnugg.com with questions or quote requests
----
+RESULTS:  
+63% - Yes  
+37% - No  
+  
+CONTACT: Andrew Graham, NuggMD head of communications, at andrew.g@getnugg.com with questions or quote requests.  
 
 ## 🗂️ Data Access
 
@@ -126,17 +123,13 @@ Our JSON format follows a consistent schema across all polls:
 - **Full methodology** disclosed for each poll
 - **Margin of error** calculated and reported
 
-### Historical Performance
-- **Trusted by industry stakeholders** and policymakers since Jan. 1, 2025
-- **Professional research standards** maintained with consistent methodology
-
 ---
 
 ## 📅 Poll Formats
 
-**Flash Polls:** One-question weekly polls with no cross-tabs  
-**Omnibus Polls:** Multi-question quarterly polls with demographic cross-tabs  
-**Trackers and Indexes:** Bespoke polling projects done in conjunction with media partners
+**Flash Polls:** One-question polls with no cross-tabs  
+**Omnibus Polls:** Multi-question polls with demographic cross-tabs  
+**Trackers and Indexes:** Custom polls done in conjunction with media partners
 
 ---
 
@@ -146,7 +139,6 @@ Our JSON format follows a consistent schema across all polls:
 ✅ **Academic research and education**  
 ✅ **News reporting and journalism**  
 ✅ **Government and policy research**  
-✅ **Non-profit organization analysis**  
 
 ### Commercial Licensing Available
 💰 **Business market research and intelligence**  
@@ -154,7 +146,7 @@ Our JSON format follows a consistent schema across all polls:
 💰 **Cannabis industry consulting**  
 💰 **Product development and marketing research**  
 
-**For commercial licensing:** Contact Andrew Graham andrew@breadandlaw.com
+**For commercial licensing:** Contact Andrew Graham at andrew@breadandlaw.com
 
 **Full terms:** See [LICENSE](https://github.com/drew-gra/cannabis-consumer-poll/blob/main/LICENSE) file
 
@@ -182,30 +174,9 @@ For editorial use, include:
 
 ---
 
-## 📞 Contact Information
-
-### Media Inquiries
-**Email:** andrew@breadandlaw.com  
-**Best for:** Interview requests, story development, expert commentary  
-
-### Data Questions
-**Email:** andrew@breadandlaw.com  
-**Best for:** Methodology questions, custom analysis, technical support  
-
-### Commercial Licensing
-**Email:** andrew@breadandlaw.com  
-**Best for:** Business use licensing, partnership opportunities, custom polling  
-
-### General Information
-**Website:** https://www.nuggmd.com/cannabis-consumer-polling  
-**About NuggMD:** NuggMD is the leading telehealth platform for cannabis. The Cannabis Consumer Poll is its in-house pollster. 
-
----
-
 ## 🔄 Repository Information
 
-**Last Updated:** 21-Aug-2025  
-**Next Update:** Repository is updated when new polling data is publicly available  
+**Update Policy:** Repository is updated when new polling data is publicly available  
 **Repository Created:** 21-Aug-2025
 
 ### Getting Notifications
