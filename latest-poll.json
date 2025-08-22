@@ -1,21 +1,19 @@
 {
   "poll_info": {
-    "poll_id": "nuggmd-cannabis-alcohol-2025-01-12",
-    "title": "NuggMD Cannabis Consumer Poll - Cannabis Impact on Alcohol Consumption",
-    "date_conducted": "January 9-12, 2025",
-    "sample_size": 381,
-    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+    "poll_id": "nuggmd-dispensary-loyalty-privacy-2025-08-17",
+    "title": "NuggMD Cannabis Consumer Poll - Dispensary Loyalty Program Privacy Trust",
+    "date_conducted": "August 7 - August 17, 2025",
+    "sample_size": 479,
+    "methodology": "Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets"
   },
   "questions": [
     {
-      "question_id": "cannabis_alcohol_effect",
-      "question_text": "Does your cannabis consumption tend to affect your alcohol consumption?",
+      "question_id": "dispensary_loyalty_privacy",
+      "question_text": "Do you trust dispensary loyalty programs to protect your privacy?",
       "response_type": "multiple_choice",
       "results": {
-        "Yes, I tend to drink less or not at all when I'm consuming cannabis": 54,
-        "No, there's no relationship between the two": 22,
-        "It depends on the circumstances": 14,
-        "Yes, I tend to drink more when I'm consuming cannabis": 9
+        "Yes": 63,
+        "No": 37
       }
     }
   ],
@@ -25,7 +23,7 @@
     "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
   },
   "notes": {
-    "margin_of_error": "±5.02%",
+    "margin_of_error": "±4.48%",
     "confidence_level": "95%",
     "z_score": "1.96"
   }
