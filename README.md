@@ -6,27 +6,20 @@ The NuggMD Cannabis Consumer Poll surveys a validated, representative sample of 
 
 ## 📈 Latest Poll Results
 
-**Survey Date:** January 9-12, 2025  
-**Sample Size:** 381 respondents  
-**Topic:** Cannabis impact on alcohol consumption  
-**Margin of Error:** ±5.02% at 95% confidence level  
+**Survey Date:** August 7 - August 17  
+**Sample Size:** 479 respondents  
+**Topic:** Consumer trust in cannabis dispensaries to protect their privacy when using customer loyalty programs
+**Margin of Error:** ±4.48% at 95% confidence level  
 
-### Key Findings:
-- **54%** - Tend to drink less or not at all when consuming cannabis
-- **22%** - No relationship between cannabis and alcohol consumption
-- **14%** - Relationship depends on the circumstances
-- **9%** - Tend to drink more when consuming cannabis
+QUESTION: Do you trust dispensary loyalty programs to protect your privacy?
+
+RESULTS:
+63% - Yes
+37% - No
 
 ## Industry Impact
 
-Statement from Andrew Graham, head of communications at NuggMD, on the results:
-
-Today's cannabis consumers are turning to the plant more for wellness than indulgence, a trend we consistently have been observing in our polling data.
-
-From a public health perspective, the replacement effect cannabis use seems to have on alcohol consumption is a positive shift. Many people are substituting a potentially fatal substance with one that isn't. However, this replacement is only a safe, practical option in state-legal recreational markets. Our internal estimates show that 47% of Americans and 37% of domestic cannabis consumers still live in states without access to these markets.
-
-Although there has been a positive shift from alcohol use to cannabis use, from a policy standpoint, federal and state prohibition is restricting the potential benefits cannabis could offer society.
-
+Contact Andrew Graham, NuggMD head of communications, at andrew.g@getnugg.com with questions or quote requests
 ---
 
 ## 🗂️ Data Access
@@ -35,7 +28,9 @@ Although there has been a positive shift from alcohol use to cannabis use, from 
 | File | Purpose | Best For |
 |------|---------|----------|
 | [`latest-poll.json`](latest-poll.json) | Most recent poll data | Automated feeds, APIs |
-| [`cannabis-poll-YYYY-MM-DD.json`](#) | Specific poll archive | Historical analysis |
+| [`latest-poll.json`](latest-poll.txt) | Most recent poll data | Human eyes |
+| [`/poll_txt_YYYY_MM_DD.json`](#) | Poll archive naming schema | Automated feeds, APIs |
+| [`/poll_txt_YYYY_MM_DD.txt`](#) | Poll archive naming schema | Human eyes |
 
 ### Machine-Readable Feed
 ```
