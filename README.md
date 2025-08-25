@@ -6,16 +6,18 @@ The NuggMD Cannabis Consumer Poll surveys a validated, representative sample of 
 
 ## 📈 Latest Poll Results
 
-**Survey Date:** August 7 - August 17  
-**Sample Size:** 479 respondents  
-**Topic:** Consumer trust in cannabis dispensaries to protect their privacy when using customer loyalty programs  
-**Margin of Error:** ±4.48% at 95% confidence level  
+**Survey Date:** August 21 -- August 24, 2025  
+**Sample Size:** 391 respondents  
+**Topic:** Effectiveness of cannabis when used to manage pain  
+**Margin of Error:** ±4.96% at 95% confidence level  
 
-QUESTION: Do you trust dispensary loyalty programs to protect your privacy?
+QUESTION: How effective is cannabis at helping you manage pain?  
 
 RESULTS:  
-63% - Yes  
-37% - No  
+65% - Very effective  
+26% - Mildly effective  
+4% - Not sufficiently effective  
+5% - Not applicable – I do not use cannabis for that purpose  
   
 CONTACT: Andrew Graham, NuggMD head of communications, at andrew.g@getnugg.com with questions or quote requests.  
 
@@ -26,7 +28,7 @@ CONTACT: Andrew Graham, NuggMD head of communications, at andrew.g@getnugg.com w
 |------|---------|----------|
 | [`latest-poll.json`](latest-poll.json) | Most recent poll data | Automated feeds, APIs |
 | [`latest-poll.json`](latest-poll.txt) | Most recent poll data | Human eyes |
-| [`/poll_txt_YYYY_MM_DD.json`](#) | Poll archive naming schema | Automated feeds, APIs |
+| [`/poll_json_YYYY_MM_DD.json`](#) | Poll archive naming schema | Automated feeds, APIs |
 | [`/poll_txt_YYYY_MM_DD.txt`](#) | Poll archive naming schema | Human eyes |
 
 ### Machine-Readable Feed
