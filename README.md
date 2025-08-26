@@ -27,7 +27,7 @@ CONTACT: Andrew Graham, NuggMD head of communications, at andrew.g@getnugg.com w
 | File | Purpose | Best For |
 |------|---------|----------|
 | [`latest-poll.json`](latest-poll.json) | Most recent poll data | Automated feeds, APIs |
-| [`latest-poll.json`](latest-poll.txt) | Most recent poll data | Human eyes |
+| [`latest-poll.txt`](latest-poll.txt) | Most recent poll data | Human eyes |
 | [`/poll_json_YYYY_MM_DD.json`](#) | Poll archive naming schema | Automated feeds, APIs |
 | [`/poll_txt_YYYY_MM_DD.txt`](#) | Poll archive naming schema | Human eyes |
 
