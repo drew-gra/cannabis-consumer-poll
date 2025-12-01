@@ -4,23 +4,6 @@ The NuggMD Cannabis Consumer Poll surveys a validated, representative sample of 
 
 ---
 
-## 📈 Latest Poll Results
-
-**Survey Date:** August 21 -- August 24, 2025  
-**Sample Size:** 391 respondents  
-**Topic:** Effectiveness of cannabis when used to manage pain  
-**Margin of Error:** ±4.96% at 95% confidence level  
-
-QUESTION: How effective is cannabis at helping you manage pain?  
-
-RESULTS:  
-65% - Very effective  
-26% - Mildly effective  
-4% - Not sufficiently effective  
-5% - Not applicable – I do not use cannabis for that purpose  
-  
-CONTACT: Andrew Graham, NuggMD head of communications, at andrew.g@getnugg.com with questions or quote requests.  
-
 ## 🗂️ Data Access
 
 ### For Immediate Use
@@ -52,8 +35,9 @@ fetch('https://raw.githubusercontent.com/drew-gra/cannabis-consumer-poll/main/la
 
 ## 📊 Data Structure
 
-Our JSON format follows a consistent schema across all polls:
+Our JSON format follows a consistent schema across all polls. The schema supports single-question flash polls, multi-question omnibus polls, conditional questions, and other specialized formats.
 
+### Basic Structure
 ```json
 {
   "poll_info": {
@@ -88,6 +72,69 @@ Our JSON format follows a consistent schema across all polls:
   }
 }
 ```
+
+### Response Types
+
+The `response_type` field indicates how respondents answered:
+
+- **`multiple_choice`** – Single-select question with mutually exclusive options. Results show respondent counts for each option.
+- **`multiple_select`** – Respondents could choose multiple options. Results show respondent counts for each option (note: totals may exceed sample size).
+- **`matrix_ranking`** – Multiple items rated on the same scale. Results organized by item with counts for each scale level.
+- **`redacted`** – Question excluded from public release. Used when data was collected under media partnership exclusivity agreements. The `question_text` field explains the partnership.
+
+### Conditional Questions
+
+Some questions are asked only to a subset of respondents based on their answers to a previous question.
+
+Conditional questions include:
+- **`question_note`** field explaining the condition
+- **`respondents_who_answered`** field showing how many of the total sample answered this question
+
+Example:
+```json
+{
+  "question_id": "tax_alternative_options_4b",
+  "question_text": "Under that scenario, which of the following would you use instead?",
+  "question_part": "4B",
+  "question_note": "Conditional question - asked only to respondents who answered 'Yes' or 'Maybe' to Question 4A",
+  "response_type": "multiple_select",
+  "respondents_who_answered": 303,
+  "results": { ... }
+}
+```
+
+### Multi-Part Questions
+
+Questions that are logically connected are labeled with a `question_part` field:
+
+- **`question_part: "4A"`** indicates this is the first part of a multi-part question
+- **`question_part: "4B"`** indicates this is the second part
+- Numbering continues as needed (4C, 4D, etc.)
+
+### Media Partnership Redactions
+
+Questions asked under exclusive agreements with media partners are included in the public feed with redaction notices. This signals:
+1. **Data exists** but is exclusively licensed to specific outlets
+2. **Partnership transparency** – which organization has exclusivity
+3. **Archive completeness** – the full survey structure is documented
+
+Example:
+```json
+{
+  "question_id": "question_6_redacted",
+  "question_text": "REDACTED - This question was asked in partnership with Cultivated Media and is exclusively available to that partner.",
+  "response_type": "redacted",
+  "results": null
+}
+```
+
+### Omnibus Polls
+
+Omnibus polls contain multiple questions on different topics in a single survey. All questions share:
+- Same `poll_info` (date conducted, sample size, methodology)
+- Same `notes` (margin of error, confidence level)
+
+Individual questions may have different respondent counts if some were conditional or had different response rates.
 
 ---
 
@@ -171,7 +218,7 @@ When using this data, please include:
 ### Media Usage
 For editorial use, include:
 - Poll source in article/graphic
-- Link to full methodology when possible
+- Link to applicable TXT file when appropriate
 - Note sample size and margin of error
 
 ---
