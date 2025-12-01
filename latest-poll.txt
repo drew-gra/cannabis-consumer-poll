@@ -1,16 +1,18 @@
 NuggMD Cannabis Consumer Poll
-August 21 - August 24, 2025
-Sample: 391 respondents | Margin of error: ±4.96%
+November 27 - November 30, 2025
+Sample: 277 respondents | Margin of error: ±5.89%
 
 ═══════════════════════════════════════════════════════════════════
 
-QUESTION: How effective is cannabis at helping you manage pain?
+QUESTION: What is your preferred method to consume cannabis?
 
 RESULTS:
-65% - Very effective
-26% - Mildly effective
-4% - Not sufficiently effective
-5% - Not applicable – I do not use cannabis for that purpose
+46% - Smoke
+24% - Vape
+20% - Edibles
+5% - Tinctures
+2% - Topicals
+3% - Other
 
 ═══════════════════════════════════════════════════════════════════
 
