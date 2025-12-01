@@ -1,0 +1,165 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-q3-omnibus-2025-09-24",
+    "title": "NuggMD Cannabis Consumer Poll - Q3 2025 Omnibus",
+    "date_conducted": "August 29 - September 24, 2025",
+    "sample_size": 574,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "thc_edible_limits",
+      "question_text": "Do you support THC limits on edible cannabis products?",
+      "response_type": "multiple_choice",
+      "results": {
+        "No": 391,
+        "Yes": 183
+      }
+    },
+    {
+      "question_id": "dispensary_cafe_interest",
+      "question_text": "What is your level of interest in cannabis dispensaries that double as cafes, social clubs, or wellness hubs?",
+      "response_type": "multiple_choice",
+      "results": {
+        "High": 215,
+        "Moderate": 208,
+        "Low": 79,
+        "No interest": 72
+      }
+    },
+    {
+      "question_id": "law_enforcement_trust",
+      "question_text": "In a widely publicized incident earlier this year, federal immigration officials targeted two California cannabis facilities for potential violations. How does enforcement that targets cannabis businesses affect your trust in law enforcement personnel broadly?",
+      "response_type": "multiple_choice",
+      "results": {
+        "It makes me trust them far less": 257,
+        "It does not impact my perception one way or the other": 166,
+        "It makes me trust them a little bit less": 121,
+        "It makes me trust them far more": 16,
+        "It makes me trust them a little bit more": 14
+      }
+    },
+    {
+      "question_id": "tax_increase_unregulated_sources_4a",
+      "question_text": "Would a tax increase of $2 on $50 worth of dispensary cannabis (4%) cause you to rely on unregulated sources or untaxed products?",
+      "question_part": "4A",
+      "response_type": "multiple_choice",
+      "results": {
+        "No": 271,
+        "Maybe": 196,
+        "Yes": 107
+      }
+    },
+    {
+      "question_id": "tax_alternative_options_4b",
+      "question_text": "Under that scenario, which of the following would you use instead?",
+      "question_part": "4B",
+      "question_note": "Conditional question - asked only to respondents who answered 'Yes' or 'Maybe' to Question 4A",
+      "response_type": "multiple_select",
+      "respondents_who_answered": 303,
+      "results": {
+        "Home-grown cannabis to bypass the tax": 166,
+        "Unregulated retail sources, shops, or \"dealers\" to bypass the tax": 141,
+        "Spend less on legal cannabis to offset the tax": 111,
+        "Products that use hemp-derived THC to bypass the tax": 44
+      }
+    },
+    {
+      "question_id": "hemp_thc_beverage_consumption",
+      "question_text": "In many markets, hemp-derived THC beverages are commonly available outside of regulated cannabis dispensaries. How often do you consume these beverages?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Never": 379,
+        "Infrequently": 146,
+        "Weekly": 28,
+        "Daily": 14,
+        "Other": 7
+      }
+    },
+    {
+      "question_id": "question_6_redacted",
+      "question_text": "REDACTED - This question was asked in partnership with Cultivated Media and is exclusively available to that partner.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "question_7_redacted",
+      "question_text": "REDACTED - This question was asked in partnership with Marijuana Moment and is exclusively available to that partner.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "question_8_redacted",
+      "question_text": "REDACTED - This question was asked in partnership with Marijuana Moment and is exclusively available to that partner.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "question_9_redacted",
+      "question_text": "REDACTED - This question was asked in partnership with Marijuana Moment and is exclusively available to that partner.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "retailer_perception_ranking_10",
+      "question_text": "Please rank your perception of the following retailers.",
+      "question_part": "Q10",
+      "response_type": "matrix_ranking",
+      "respondents_who_answered": 560,
+      "results": {
+        "Amazon": {
+          "Very Positive": 103,
+          "Positive": 181,
+          "Neutral": 167,
+          "Negative": 65,
+          "Very Negative": 44
+        },
+        "Wal-Mart": {
+          "Very Positive": 43,
+          "Positive": 158,
+          "Neutral": 212,
+          "Negative": 87,
+          "Very Negative": 62
+        },
+        "Costco": {
+          "Very Positive": 103,
+          "Positive": 139,
+          "Neutral": 268,
+          "Negative": 29,
+          "Very Negative": 21
+        },
+        "Target": {
+          "Very Positive": 35,
+          "Positive": 136,
+          "Neutral": 265,
+          "Negative": 72,
+          "Very Negative": 51
+        },
+        "Whole Foods": {
+          "Very Positive": 30,
+          "Positive": 128,
+          "Neutral": 315,
+          "Negative": 51,
+          "Very Negative": 36
+        },
+        "Trader Joe's": {
+          "Very Positive": 84,
+          "Positive": 138,
+          "Neutral": 275,
+          "Negative": 40,
+          "Very Negative": 24
+        }
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.09%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}
