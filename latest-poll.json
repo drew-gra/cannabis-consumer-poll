@@ -1,21 +1,24 @@
+
 {
   "poll_info": {
-    "poll_id": "nuggmd-pain-management-2025-08-24",
-    "title": "NuggMD Cannabis Consumer Poll - Cannabis Effectiveness for Pain Management",
-    "date_conducted": "August 21-24, 2025",
-    "sample_size": 391,
+    "poll_id": "nuggmd-consumption-method-preference-2025-11-30",
+    "title": "NuggMD Cannabis Consumer Poll - Preferred Cannabis Consumption Method",
+    "date_conducted": "November 27-30, 2025",
+    "sample_size": 277,
     "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
   },
   "questions": [
     {
-      "question_id": "cannabis_pain_effectiveness",
-      "question_text": "How effective is cannabis at helping you manage pain?",
+      "question_id": "consumption_method_preference",
+      "question_text": "What is your preferred method to consume cannabis?",
       "response_type": "multiple_choice",
       "results": {
-        "Very effective": 65,
-        "Mildly effective": 26,
-        "Not sufficiently effective": 4,
-        "Not applicable – I do not use cannabis for that purpose": 5
+        "Smoke": 46,
+        "Vape": 24,
+        "Edibles": 20,
+        "Tinctures": 5,
+        "Topicals": 2,
+        "Other": 3
       }
     }
   ],
@@ -25,7 +28,7 @@
     "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
   },
   "notes": {
-    "margin_of_error": "±4.96%",
+    "margin_of_error": "±5.89%",
     "confidence_level": "95%",
     "z_score": "1.96"
   }
