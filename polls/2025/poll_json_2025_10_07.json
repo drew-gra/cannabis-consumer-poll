@@ -1,0 +1,33 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-rescheduling-sentiment-2025-10-07",
+    "title": "NuggMD Cannabis Consumer Poll - CBD and Cannabis Rescheduling Sentiment",
+    "date_conducted": "October 2-7, 2025",
+    "sample_size": 415,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "rescheduling_sentiment",
+      "question_text": "Last weekend, the president posted a video touting the benefits of CBD for seniors. Some have speculated that this means the administration has decided to reschedule cannabis -- which would finally acknowledge that the plant has potential medical benefit -- while others say Trump posts about a lot of issues without necessarily signaling policy action. In your opinion, what, if anything, does this news mean for the prospects of rescheduling?",
+      "response_type": "multiple_choice",
+      "results": {
+        "It means rescheduling will happen": 12,
+        "It means rescheduling is more likely to happen": 26,
+        "It does not mean anything in the context of rescheduling": 50,
+        "It means rescheduling is less likely to happen": 7,
+        "It means rescheduling will not happen": 6
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.81%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

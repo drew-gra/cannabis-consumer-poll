@@ -1,0 +1,38 @@
+NuggMD Cannabis Consumer Poll
+October 2 - October 7, 2025
+Sample: 415 respondents | Margin of error: ±4.81%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION: Last weekend, the president posted a video touting the benefits of CBD for seniors. Some have speculated that this means the administration has decided to reschedule cannabis -- which would finally acknowledge that the plant has potential medical benefit -- while others say Trump posts about a lot of issues without necessarily signaling policy action. In your opinion, what, if anything, does this news mean for the prospects of rescheduling?
+
+RESULTS:
+12% - It means rescheduling will happen
+26% - It means rescheduling is more likely to happen
+50% - It does not mean anything in the context of rescheduling
+7% - It means rescheduling is less likely to happen
+6% - It means rescheduling will not happen
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY: 
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: andrew.g@getnugg.com
+Full data and methodology: https://github.com/drew-gra/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative 
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/drew-gra/cannabis-consumer-poll
+Website: https://www.nuggmd.com/cannabis-consumer-polling
