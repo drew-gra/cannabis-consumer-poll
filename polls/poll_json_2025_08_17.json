@@ -1,0 +1,30 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-dispensary-loyalty-privacy-2025-08-17",
+    "title": "NuggMD Cannabis Consumer Poll - Dispensary Loyalty Program Privacy Trust",
+    "date_conducted": "August 7 - August 17, 2025",
+    "sample_size": 479,
+    "methodology": "Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets"
+  },
+  "questions": [
+    {
+      "question_id": "dispensary_loyalty_privacy",
+      "question_text": "Do you trust dispensary loyalty programs to protect your privacy?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Yes": 63,
+        "No": 37
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "\u00b14.48%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

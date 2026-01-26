@@ -1,0 +1,39 @@
+NuggMD Cannabis Consumer Poll
+January 2 - January 5, 2025
+Sample: 806 respondents | Margin of error: ±3.45%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION: What is your biggest frustration as a cannabis consumer?
+
+RESULTS:
+31% — Cannabis costs too much
+12% — My favorite products are hard to find
+22% — I don't always get the desired effects
+7% — There aren't convenient dispensary options near me
+14% — I feel judged for using cannabis
+14% — There aren't any places I'm legally allowed to smoke
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY: 
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: andrew.g@getnugg.com
+Full data and methodology: https://github.com/drew-gra/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative 
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/drew-gra/cannabis-consumer-poll
+Website: https://www.nuggmd.com/cannabis-consumer-polling

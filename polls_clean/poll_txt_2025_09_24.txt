@@ -1,0 +1,157 @@
+NuggMD Cannabis Consumer Poll
+August 29 - September 24, 2025
+Sample: 574 respondents | Margin of error: ±4.09%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 1: Do you support THC limits on edible cannabis products?
+
+RESULTS:
+68% - No
+32% - Yes
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 2: What is your level of interest in cannabis dispensaries that double as cafes, social clubs, or wellness hubs?
+
+RESULTS:
+37% - High
+36% - Moderate
+14% - Low
+13% - No interest
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 3: In a widely publicized incident earlier this year, federal immigration officials targeted two California cannabis facilities for potential violations. How does enforcement that targets cannabis businesses affect your trust in law enforcement personnel broadly?
+
+RESULTS:
+45% - It makes me trust them far less
+29% - It does not impact my perception one way or the other
+21% - It makes me trust them a little bit less
+3% - It makes me trust them far more
+2% - It makes me trust them a little bit more
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 4A: Would a tax increase of $2 on $50 worth of dispensary cannabis (4%) cause you to rely on unregulated sources or untaxed products?
+
+RESULTS:
+47% - No
+34% - Maybe
+19% - Yes
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 4B: Under that scenario, which of the following would you use instead?
+
+NOTE: Asked only to respondents who answered "Yes" or "Maybe" to Question 4A
+(303 of 574 respondents answered this conditional question)
+
+RESULTS:
+55% - Home-grown cannabis to bypass the tax
+47% - Unregulated retail sources, shops, or "dealers" to bypass the tax
+37% - Spend less on legal cannabis to offset the tax
+15% - Products that use hemp-derived THC to bypass the tax
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 5: In many markets, hemp-derived THC beverages are commonly available outside of regulated cannabis dispensaries. How often do you consume these beverages?
+
+RESULTS:
+66% - Never
+25% - Infrequently
+5% - Weekly
+2% - Daily
+1% - Other
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 6: REDACTED
+This question was asked in partnership with Cultivated Media and is exclusively available to that partner.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 7: REDACTED
+This question was asked in partnership with Marijuana Moment and is exclusively available to that partner.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 8: REDACTED
+This question was asked in partnership with Marijuana Moment and is exclusively available to that partner.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 9: REDACTED
+This question was asked in partnership with Marijuana Moment and is exclusively available to that partner.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 10: Please rank your perception of the following retailers.
+
+(560 of 574 respondents answered this question)
+
+AMAZON:
+18% - Very Positive
+32% - Positive
+30% - Neutral
+12% - Negative
+8% - Very Negative
+
+WAL-MART:
+8% - Very Positive
+28% - Positive
+38% - Neutral
+16% - Negative
+11% - Very Negative
+
+COSTCO:
+18% - Very Positive
+25% - Positive
+48% - Neutral
+5% - Negative
+4% - Very Negative
+
+TARGET:
+6% - Very Positive
+24% - Positive
+47% - Neutral
+13% - Negative
+9% - Very Negative
+
+WHOLE FOODS:
+5% - Very Positive
+23% - Positive
+56% - Neutral
+9% - Negative
+7% - Very Negative
+
+TRADER JOE'S:
+15% - Very Positive
+25% - Positive
+49% - Neutral
+7% - Negative
+4% - Very Negative
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY: 
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: andrew.g@getnugg.com
+Full data and methodology: https://github.com/drew-gra/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative 
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/drew-gra/cannabis-consumer-poll
+Website: https://www.nuggmd.com/cannabis-consumer-polling

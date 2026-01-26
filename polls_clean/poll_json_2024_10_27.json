@@ -1,0 +1,31 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-presidential-vote-intention-2024-10-27",
+    "title": "NuggMD Cannabis Consumer Poll - Presidential Vote Intention",
+    "date_conducted": "October 24 - October 27, 2024",
+    "sample_size": 623,
+    "methodology": "Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets"
+  },
+  "questions": [
+    {
+      "question_id": "presidential_vote_intention",
+      "question_text": "If you plan to vote in the presidential election, who would you vote for?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Kamala Harris": 53,
+        "Donald Trump": 40,
+        "Someone else": 6
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "\u00b13.93%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

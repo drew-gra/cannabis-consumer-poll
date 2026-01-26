@@ -1,0 +1,32 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-unregulated-source-trust-2024-09-01",
+    "title": "NuggMD Cannabis Consumer Poll - Trust in Unregulated Cannabis Sources",
+    "date_conducted": "August 8 - August 11 and August 29 - September 1, 2024",
+    "sample_size": 352,
+    "methodology": "Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets"
+  },
+  "questions": [
+    {
+      "question_id": "unregulated_source_trust",
+      "question_text": "To what extent would you trust cannabis purchased from an unregulated source, such as a delta-8 shop, vape shop, or dealer, to be accurately labeled and free of contaminants?",
+      "response_type": "multiple_choice",
+      "results": {
+        "I would trust it a great deal": 6,
+        "I would have some trust in it": 12,
+        "I would have a low level of trust in it": 31,
+        "I would not trust it at all": 51
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "\u00b15.22%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

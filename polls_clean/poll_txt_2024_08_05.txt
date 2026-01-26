@@ -1,0 +1,39 @@
+NuggMD Cannabis Consumer Poll
+August 1 - August 5, 2024
+Sample: 460 respondents | Margin of error: ±4.57%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION: Kamala Harris is now the presumptive Democratic presidential nominee after Joe Biden dropped out. How has this impacted your views on November's election?
+
+RESULTS:
+40% — I like Harris as the candidate over Biden
+3% — I liked Biden as the candidate over other Democratic alternatives
+48% — I intend to vote for the Republican candidate
+4% — I intend to vote for a third party
+6% — I don't have an opinion on the election yet
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY: 
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Respondents: Cannabis consumers who are likely/committed voters
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: andrew.g@getnugg.com
+Full data and methodology: https://github.com/drew-gra/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative 
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/drew-gra/cannabis-consumer-poll
+Website: https://www.nuggmd.com/cannabis-consumer-polling

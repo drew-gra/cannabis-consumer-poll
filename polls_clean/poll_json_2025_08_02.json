@@ -1,0 +1,30 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-federal-legalization-expectations-2025-08-02",
+    "title": "NuggMD Cannabis Consumer Poll - Federal Cannabis Legalization Expectations",
+    "date_conducted": "July 31 - August 2, 2025",
+    "sample_size": 390,
+    "methodology": "Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets"
+  },
+  "questions": [
+    {
+      "question_id": "federal_legalization_expectations",
+      "question_text": "Do you expect cannabis to be federally legalized during the next three years?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Yes": 54,
+        "No": 46
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "\u00b14.96%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

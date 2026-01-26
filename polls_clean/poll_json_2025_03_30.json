@@ -1,0 +1,31 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-medical-cannabis-dosage-adequacy-2025-03-30",
+    "title": "NuggMD Cannabis Consumer Poll - Medical Cannabis Recommendation Adequacy",
+    "date_conducted": "March 27 - March 30, 2025",
+    "sample_size": 245,
+    "methodology": "Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets"
+  },
+  "questions": [
+    {
+      "question_id": "medical_cannabis_dosage_adequacy",
+      "question_text": "Is the amount of cannabis allowed on your doctor's recommendation enough to meet your treatment needs?",
+      "response_type": "multiple_choice",
+      "results": {
+        "More than enough": 21,
+        "Enough": 40,
+        "Not enough": 39
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "\u00b16.26%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

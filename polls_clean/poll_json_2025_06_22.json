@@ -1,0 +1,30 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-cannabis-prescription-replacement-2025-06-22",
+    "title": "NuggMD Cannabis Consumer Poll - Cannabis as Prescription Medication Replacement",
+    "date_conducted": "June 19 - June 22, 2025",
+    "sample_size": 485,
+    "methodology": "Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets"
+  },
+  "questions": [
+    {
+      "question_id": "cannabis_prescription_replacement",
+      "question_text": "Do you use cannabis as a replacement for prescription medication?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Yes": 80,
+        "No": 20
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "\u00b14.45%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

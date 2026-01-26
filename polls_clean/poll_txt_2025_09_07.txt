@@ -1,0 +1,37 @@
+NuggMD Cannabis Consumer Poll
+September 4 - September 7, 2025
+Sample: 169 respondents | Margin of error: ±7.54%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION: How would you feel about higher cannabis taxes in your state (example.: an increase that made a $50 purchase cost $52) if the additional revenue was spent locally on something that you support?
+
+RESULTS:
+29% - Very supportive
+28% - Somewhat supportive
+15% - Neutral
+48% - Not supportive
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY: 
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: andrew.g@getnugg.com
+Full data and methodology: https://github.com/drew-gra/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative 
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/drew-gra/cannabis-consumer-poll
+Website: https://www.nuggmd.com/cannabis-consumer-polling

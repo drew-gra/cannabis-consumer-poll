@@ -1,0 +1,32 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-pain-management-2025-08-24",
+    "title": "NuggMD Cannabis Consumer Poll - Cannabis Effectiveness for Pain Management",
+    "date_conducted": "August 21 - August 24, 2025",
+    "sample_size": 391,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "cannabis_pain_effectiveness",
+      "question_text": "How effective is cannabis at helping you manage pain?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Very effective": 65,
+        "Mildly effective": 26,
+        "Not sufficiently effective": 4,
+        "Not applicable \u2013 I do not use cannabis for that purpose": 5
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "\u00b14.96%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

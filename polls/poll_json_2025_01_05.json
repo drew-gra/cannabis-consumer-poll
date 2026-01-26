@@ -1,0 +1,34 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-biggest-frustration-2025-01-05",
+    "title": "NuggMD Cannabis Consumer Poll - Biggest Frustration as Cannabis Consumer",
+    "date_conducted": "January 2 - January 5, 2025",
+    "sample_size": 806,
+    "methodology": "Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets"
+  },
+  "questions": [
+    {
+      "question_id": "biggest_frustration",
+      "question_text": "What is your biggest frustration as a cannabis consumer?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Cannabis costs too much": 31,
+        "My favorite products are hard to find": 12,
+        "I don't always get the desired effects": 22,
+        "There aren't convenient dispensary options near me": 7,
+        "I feel judged for using cannabis": 14,
+        "There aren't any places I'm legally allowed to smoke": 14
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "\u00b13.45%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

@@ -1,0 +1,36 @@
+NuggMD Cannabis Consumer Poll
+October 16 - October 27, 2025
+Sample: 285 respondents | Margin of error: ±5.81%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION: Last week, news broke that Target has started selling THC-infused cannabis beverages in some stores. Does knowing this make you more likely to shop at Target in the future?
+
+RESULTS:
+34% - Yes -- but only if my local Target carries the THC-infused products
+16% - Yes -- I want to support the retailer more now regardless of which locations sell the products
+50% - No, it will not affect my behavior
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY: 
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: andrew.g@getnugg.com
+Full data and methodology: https://github.com/drew-gra/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative 
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/drew-gra/cannabis-consumer-poll
+Website: https://www.nuggmd.com/cannabis-consumer-polling
