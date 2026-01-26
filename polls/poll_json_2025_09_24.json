@@ -12,8 +12,8 @@
       "question_text": "Do you support THC limits on edible cannabis products?",
       "response_type": "multiple_choice",
       "results": {
-        "No": 391,
-        "Yes": 183
+        "No": 68,
+        "Yes": 32
       }
     },
     {
@@ -21,10 +21,10 @@
       "question_text": "What is your level of interest in cannabis dispensaries that double as cafes, social clubs, or wellness hubs?",
       "response_type": "multiple_choice",
       "results": {
-        "High": 215,
-        "Moderate": 208,
-        "Low": 79,
-        "No interest": 72
+        "High": 37,
+        "Moderate": 36,
+        "Low": 14,
+        "No interest": 13
       }
     },
     {
@@ -32,11 +32,11 @@
       "question_text": "In a widely publicized incident earlier this year, federal immigration officials targeted two California cannabis facilities for potential violations. How does enforcement that targets cannabis businesses affect your trust in law enforcement personnel broadly?",
       "response_type": "multiple_choice",
       "results": {
-        "It makes me trust them far less": 257,
-        "It does not impact my perception one way or the other": 166,
-        "It makes me trust them a little bit less": 121,
-        "It makes me trust them far more": 16,
-        "It makes me trust them a little bit more": 14
+        "It makes me trust them far less": 45,
+        "It does not impact my perception one way or the other": 29,
+        "It makes me trust them a little bit less": 21,
+        "It makes me trust them far more": 3,
+        "It makes me trust them a little bit more": 2
       }
     },
     {
@@ -45,23 +45,23 @@
       "question_part": "4A",
       "response_type": "multiple_choice",
       "results": {
-        "No": 271,
-        "Maybe": 196,
-        "Yes": 107
+        "No": 47,
+        "Maybe": 34,
+        "Yes": 19
       }
     },
     {
       "question_id": "tax_alternative_options_4b",
       "question_text": "Under that scenario, which of the following would you use instead?",
       "question_part": "4B",
-      "question_note": "Conditional question - asked only to respondents who answered 'Yes' or 'Maybe' to Question 4A",
+      "question_note": "Conditional question - asked only to respondents who answered 'Yes' or 'Maybe' to Question 4A. Multi-select; percentages based on 303 respondents and do not sum to 100%.",
       "response_type": "multiple_select",
       "respondents_who_answered": 303,
       "results": {
-        "Home-grown cannabis to bypass the tax": 166,
-        "Unregulated retail sources, shops, or \"dealers\" to bypass the tax": 141,
-        "Spend less on legal cannabis to offset the tax": 111,
-        "Products that use hemp-derived THC to bypass the tax": 44
+        "Home-grown cannabis to bypass the tax": 55,
+        "Unregulated retail sources, shops, or \"dealers\" to bypass the tax": 47,
+        "Spend less on legal cannabis to offset the tax": 37,
+        "Products that use hemp-derived THC to bypass the tax": 15
       }
     },
     {
@@ -69,11 +69,11 @@
       "question_text": "In many markets, hemp-derived THC beverages are commonly available outside of regulated cannabis dispensaries. How often do you consume these beverages?",
       "response_type": "multiple_choice",
       "results": {
-        "Never": 379,
-        "Infrequently": 146,
-        "Weekly": 28,
-        "Daily": 14,
-        "Other": 7
+        "Never": 66,
+        "Infrequently": 26,
+        "Weekly": 5,
+        "Daily": 2,
+        "Other": 1
       }
     },
     {
@@ -108,46 +108,46 @@
       "respondents_who_answered": 560,
       "results": {
         "Amazon": {
-          "Very Positive": 103,
-          "Positive": 181,
-          "Neutral": 167,
-          "Negative": 65,
-          "Very Negative": 44
+          "Very Positive": 18,
+          "Positive": 32,
+          "Neutral": 30,
+          "Negative": 12,
+          "Very Negative": 8
         },
         "Wal-Mart": {
-          "Very Positive": 43,
-          "Positive": 158,
-          "Neutral": 212,
-          "Negative": 87,
-          "Very Negative": 62
+          "Very Positive": 8,
+          "Positive": 28,
+          "Neutral": 37,
+          "Negative": 16,
+          "Very Negative": 11
         },
         "Costco": {
-          "Very Positive": 103,
-          "Positive": 139,
-          "Neutral": 268,
-          "Negative": 29,
-          "Very Negative": 21
+          "Very Positive": 18,
+          "Positive": 25,
+          "Neutral": 48,
+          "Negative": 5,
+          "Very Negative": 4
         },
         "Target": {
-          "Very Positive": 35,
-          "Positive": 136,
-          "Neutral": 265,
-          "Negative": 72,
-          "Very Negative": 51
+          "Very Positive": 6,
+          "Positive": 24,
+          "Neutral": 48,
+          "Negative": 13,
+          "Very Negative": 9
         },
         "Whole Foods": {
-          "Very Positive": 30,
-          "Positive": 128,
-          "Neutral": 315,
-          "Negative": 51,
-          "Very Negative": 36
+          "Very Positive": 5,
+          "Positive": 23,
+          "Neutral": 57,
+          "Negative": 9,
+          "Very Negative": 6
         },
         "Trader Joe's": {
-          "Very Positive": 84,
-          "Positive": 138,
-          "Neutral": 275,
-          "Negative": 40,
-          "Very Negative": 24
+          "Very Positive": 15,
+          "Positive": 25,
+          "Neutral": 49,
+          "Negative": 7,
+          "Very Negative": 4
         }
       }
     }
@@ -158,7 +158,7 @@
     "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
   },
   "notes": {
-    "margin_of_error": "\u00b14.09%",
+    "margin_of_error": "±4.09%",
     "confidence_level": "95%",
     "z_score": "1.96"
   }
