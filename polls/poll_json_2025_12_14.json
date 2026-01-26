@@ -1,0 +1,109 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-q4-omnibus-2025-12-14",
+    "title": "NuggMD Cannabis Consumer Poll - Q4 2025 Omnibus",
+    "date_conducted": "December 4 - December 14, 2025",
+    "sample_size": 448,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "celebrity_spokesperson_perception",
+      "question_text": "When you encounter a cannabis brand that has a celebrity spokesperson, backer, or founder, how do you feel about that brand?",
+      "response_type": "multiple_choice",
+      "results": {
+        "I only care about the product, not the marketing": 78,
+        "It depends on the celebrity": 16,
+        "I trust the brand more": 4,
+        "I trust the brand less": 2
+      }
+    },
+    {
+      "question_id": "youth_marketing_perception",
+      "question_text": "From what you can observe as a consumer, to what extent do you feel brands and retailers intentionally market cannabis to those under the age of 21?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Not at all": 44,
+        "Rarely": 27,
+        "Sometimes": 24,
+        "A great deal": 5
+      }
+    },
+    {
+      "question_id": "insurance_coverage_care_quality",
+      "question_text": "If your health insurance covered the cost of cannabis recommended by a doctor, how do you believe that would affect the quality of the health care you receive?",
+      "response_type": "multiple_choice",
+      "results": {
+        "It would improve the quality of care": 66,
+        "It would not change the quality of care": 29,
+        "It would make the quality of care worse": 3,
+        "I don't have health insurance": 2
+      }
+    },
+    {
+      "question_id": "insurance_provider_switch",
+      "question_text": "Would you consider changing from a health insurance provider that does not cover any medical cannabis costs to one that does cover some?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Yes": 62,
+        "No": 20,
+        "This question does not apply to me": 18
+      }
+    },
+    {
+      "question_id": "question_5_redacted",
+      "question_text": "REDACTED - This question is reserved for internal use.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "question_6_redacted",
+      "question_text": "REDACTED - This question is reserved for internal use.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "question_7_redacted",
+      "question_text": "REDACTED - This question is reserved for internal use.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "hemp_thc_recriminalization",
+      "question_text": "The president recently signed legislation that re-criminalizes hemp-derived THC, which was made legal in 2018. Do you support or oppose this policy?",
+      "response_type": "multiple_choice",
+      "results": {
+        "I oppose the policy. THC from hemp should be legal": 81,
+        "I don't have an opinion on the policy": 15,
+        "I support the policy. THC from hemp should be prohibited": 4
+      }
+    },
+    {
+      "question_id": "question_9_redacted",
+      "question_text": "REDACTED - This question is reserved for internal use.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "recommendation_app_interest",
+      "question_text": "What is your level of interest in an app that uses real-world data on consumer preference, such as our opinion polling, to provide strain and product recommendations based on your desired effects?",
+      "response_type": "multiple_choice",
+      "results": {
+        "High": 37,
+        "Moderate": 36,
+        "No interest": 17,
+        "Low": 10
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.63%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

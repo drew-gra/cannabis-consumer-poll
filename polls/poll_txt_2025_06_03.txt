@@ -1,0 +1,95 @@
+NuggMD Cannabis Consumer Poll
+May 19 - June 3, 2025
+Sample: 602 respondents | Margin of error: ±4.00%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 1: Would you pay a premium for cannabis that's cultivated, distributed, and sold by small, independent businesses as opposed to large, multi-state cannabis companies?
+
+RESULTS:
+51% - Yes
+42% - I would consider it
+7% - No
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 2: How effective is cannabis, when used in your spare time, in helping you deal with work-related stress or anxiety?
+
+RESULTS:
+71% - Very effective
+15% - Not applicable—I do not use cannabis for that purpose
+13% - Mildly effective
+1% - Not sufficiently effective
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 3: REDACTED
+This question is reserved for internal use.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 4: Where do you prefer to consume cannabis?
+
+RESULTS:
+88% - At home
+11% - No preference
+1% - Someplace else
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 5: If you could vape in more public places, would you vape cannabis more often?
+
+RESULTS:
+34% - No change
+30% - Yes, a bit more
+22% - Not applicable—I don't use vapes and have no desire to start
+14% - Yes, a lot more
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 6: How interested are you in cannabis products that add other cannabinoids, such as CBG, CBN, or CBD, to THC for therapeutic or wellness reasons?
+
+RESULTS:
+50% - Very interested
+26% - Moderately interested
+15% - Slightly interested
+9% - Not interested
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 7: REDACTED
+This question is reserved for internal use.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 8: REDACTED
+This question is reserved for internal use.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 9: REDACTED
+This question is reserved for internal use.
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY: 
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: andrew.g@getnugg.com
+Full data and methodology: https://github.com/drew-gra/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative 
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/drew-gra/cannabis-consumer-poll
+Website: https://www.nuggmd.com/cannabis-consumer-polling

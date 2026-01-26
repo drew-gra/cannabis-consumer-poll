@@ -1,0 +1,105 @@
+NuggMD Cannabis Consumer Poll
+December 4 - December 14, 2025
+Sample: 448 respondents | Margin of error: ±4.63%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 1: When you encounter a cannabis brand that has a celebrity spokesperson, backer, or founder, how do you feel about that brand?
+
+RESULTS:
+78% - I only care about the product, not the marketing
+16% - It depends on the celebrity
+4% - I trust the brand more
+2% - I trust the brand less
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 2: From what you can observe as a consumer, to what extent do you feel brands and retailers intentionally market cannabis to those under the age of 21?
+
+RESULTS:
+44% - Not at all
+27% - Rarely
+24% - Sometimes
+5% - A great deal
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 3: If your health insurance covered the cost of cannabis recommended by a doctor, how do you believe that would affect the quality of the health care you receive?
+
+RESULTS:
+66% - It would improve the quality of care
+29% - It would not change the quality of care
+3% - It would make the quality of care worse
+2% - I don't have health insurance
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 4: Would you consider changing from a health insurance provider that does not cover any medical cannabis costs to one that does cover some?
+
+RESULTS:
+62% - Yes
+20% - No
+18% - This question does not apply to me
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 5: REDACTED
+This question is reserved for internal use.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 6: REDACTED
+This question is reserved for internal use.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 7: REDACTED
+This question is reserved for internal use.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 8: The president recently signed legislation that re-criminalizes hemp-derived THC, which was made legal in 2018. Do you support or oppose this policy?
+
+RESULTS:
+81% - I oppose the policy. THC from hemp should be legal
+15% - I don't have an opinion on the policy
+4% - I support the policy. THC from hemp should be prohibited
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 9: REDACTED
+This question is reserved for internal use.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 10: What is your level of interest in an app that uses real-world data on consumer preference, such as our opinion polling, to provide strain and product recommendations based on your desired effects?
+
+RESULTS:
+37% - High
+36% - Moderate
+17% - No interest
+10% - Low
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY: 
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: andrew.g@getnugg.com
+Full data and methodology: https://github.com/drew-gra/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative 
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/drew-gra/cannabis-consumer-poll
+Website: https://www.nuggmd.com/cannabis-consumer-polling

@@ -1,0 +1,98 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-q2-omnibus-2025-06-03",
+    "title": "NuggMD Cannabis Consumer Poll - Q2 2025 Omnibus",
+    "date_conducted": "May 19 - June 3, 2025",
+    "sample_size": 602,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "small_business_premium",
+      "question_text": "Would you pay a premium for cannabis that's cultivated, distributed, and sold by small, independent businesses as opposed to large, multi-state cannabis companies?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Yes": 51,
+        "I would consider it": 42,
+        "No": 7
+      }
+    },
+    {
+      "question_id": "work_stress_effectiveness",
+      "question_text": "How effective is cannabis, when used in your spare time, in helping you deal with work-related stress or anxiety?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Very effective": 71,
+        "Not applicable—I do not use cannabis for that purpose": 15,
+        "Mildly effective": 13,
+        "Not sufficiently effective": 1
+      }
+    },
+    {
+      "question_id": "question_3_redacted",
+      "question_text": "REDACTED - This question is reserved for internal use.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "consumption_location_preference",
+      "question_text": "Where do you prefer to consume cannabis?",
+      "response_type": "multiple_choice",
+      "results": {
+        "At home": 88,
+        "No preference": 11,
+        "Someplace else": 1
+      }
+    },
+    {
+      "question_id": "public_vaping_frequency",
+      "question_text": "If you could vape in more public places, would you vape cannabis more often?",
+      "response_type": "multiple_choice",
+      "results": {
+        "No change": 34,
+        "Yes, a bit more": 30,
+        "Not applicable—I don't use vapes and have no desire to start": 22,
+        "Yes, a lot more": 14
+      }
+    },
+    {
+      "question_id": "cannabinoid_blends_interest",
+      "question_text": "How interested are you in cannabis products that add other cannabinoids, such as CBG, CBN, or CBD, to THC for therapeutic or wellness reasons?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Very interested": 50,
+        "Moderately interested": 26,
+        "Slightly interested": 15,
+        "Not interested": 9
+      }
+    },
+    {
+      "question_id": "question_7_redacted",
+      "question_text": "REDACTED - This question is reserved for internal use.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "question_8_redacted",
+      "question_text": "REDACTED - This question is reserved for internal use.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "question_9_redacted",
+      "question_text": "REDACTED - This question is reserved for internal use.",
+      "response_type": "redacted",
+      "results": null
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.00%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}
