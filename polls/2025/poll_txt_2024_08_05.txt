@@ -1,16 +1,17 @@
 NuggMD Cannabis Consumer Poll
-January 9 - January 12, 2025
-Sample: 381 respondents | Margin of error: ±5.02%
+August 1 - August 5, 2024
+Sample: 460 respondents | Margin of error: ±4.57%
 
 ═══════════════════════════════════════════════════════════════════
 
-QUESTION: Does your cannabis consumption tend to affect your alcohol consumption?
+QUESTION: Kamala Harris is now the presumptive Democratic presidential nominee after Joe Biden dropped out. How has this impacted your views on November's election?
 
 RESULTS:
-54% — Yes, I tend to drink less or not at all when I'm consuming cannabis
-9% — Yes, I tend to drink more when I'm consuming cannabis
-14% — It depends on the circumstances
-22% — No, there's no relationship between the two
+40% — I like Harris as the candidate over Biden
+3% — I liked Biden as the candidate over other Democratic alternatives
+48% — I intend to vote for the Republican candidate
+4% — I intend to vote for a third party
+6% — I don't have an opinion on the election yet
 
 ═══════════════════════════════════════════════════════════════════
 
@@ -20,6 +21,7 @@ Digital questionnaire sent to verified, representative sample of cannabis consum
 SAMPLE DETAILS:
 - Population: Representative sample of cannabis consumers in state-legal markets
 - Survey Method: Digital questionnaire via secure online platform
+- Respondents: Cannabis consumers who are likely/committed voters
 - Confidence Level: 95%
 - Z-score: 1.96
 

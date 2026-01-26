@@ -1,21 +1,21 @@
 {
   "poll_info": {
-    "poll_id": "nuggmd-cannabis-alcohol-2025-01-12",
-    "title": "NuggMD Cannabis Consumer Poll - Cannabis Impact on Alcohol Consumption",
-    "date_conducted": "January 9-12, 2025",
+    "poll_id": "nuggmd-cannabis-alcohol-consumption-2025-01-12",
+    "title": "NuggMD Cannabis Consumer Poll - Cannabis and Alcohol Consumption",
+    "date_conducted": "January 9 - January 12, 2025",
     "sample_size": 381,
-    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+    "methodology": "Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets"
   },
   "questions": [
     {
-      "question_id": "cannabis_alcohol_effect",
+      "question_id": "cannabis_alcohol_consumption",
       "question_text": "Does your cannabis consumption tend to affect your alcohol consumption?",
       "response_type": "multiple_choice",
       "results": {
         "Yes, I tend to drink less or not at all when I'm consuming cannabis": 54,
-        "No, there's no relationship between the two": 22,
+        "Yes, I tend to drink more when I'm consuming cannabis": 9,
         "It depends on the circumstances": 14,
-        "Yes, I tend to drink more when I'm consuming cannabis": 9
+        "No, there's no relationship between the two": 22
       }
     }
   ],

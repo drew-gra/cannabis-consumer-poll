@@ -1,0 +1,32 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-cannabis-policy-vote-influence-2024-09-21",
+    "title": "NuggMD Cannabis Consumer Poll - Cannabis Policy Influence on Vote",
+    "date_conducted": "September 12 - September 15 and September 19 - September 21, 2024",
+    "sample_size": 291,
+    "methodology": "Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets"
+  },
+  "questions": [
+    {
+      "question_id": "cannabis_policy_vote_influence",
+      "question_text": "To what extent can pro-cannabis policy or commitments from the presidential candidates influence your vote this November?",
+      "response_type": "multiple_choice",
+      "results": {
+        "It can directly influence my vote a little bit": 21,
+        "It can directly influence my vote a great deal": 52,
+        "Cannabis is the only issue I care about": 10,
+        "It cannot influence my vote at all": 17
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±5.74%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

@@ -1,16 +1,17 @@
 NuggMD Cannabis Consumer Poll
-January 9 - January 12, 2025
-Sample: 381 respondents | Margin of error: ±5.02%
+November 14 - November 17, 2024
+Sample: 480 respondents | Margin of error: ±4.47%
 
 ═══════════════════════════════════════════════════════════════════
 
-QUESTION: Does your cannabis consumption tend to affect your alcohol consumption?
+QUESTION: What is your preferred method of cannabis consumption?
 
 RESULTS:
-54% — Yes, I tend to drink less or not at all when I'm consuming cannabis
-9% — Yes, I tend to drink more when I'm consuming cannabis
-14% — It depends on the circumstances
-22% — No, there's no relationship between the two
+47% — Flower
+20% — Vape
+22% — Edible
+7% — Oil concentrate
+4% — Other
 
 ═══════════════════════════════════════════════════════════════════
 

@@ -1,16 +1,18 @@
 NuggMD Cannabis Consumer Poll
-January 9 - January 12, 2025
-Sample: 381 respondents | Margin of error: ±5.02%
+December 12 - December 15, 2024
+Sample: 194 respondents | Margin of error: ±7.04%
 
 ═══════════════════════════════════════════════════════════════════
 
-QUESTION: Does your cannabis consumption tend to affect your alcohol consumption?
+QUESTION: Where do you get information about cannabis?
 
 RESULTS:
-54% — Yes, I tend to drink less or not at all when I'm consuming cannabis
-9% — Yes, I tend to drink more when I'm consuming cannabis
-14% — It depends on the circumstances
-22% — No, there's no relationship between the two
+27% — Search engines (like Google or ChatGPT)
+49% — Industry websites (like NuggMD, Weedmaps, or Leafly)
+6% — Social media platforms (like Facebook, TikTok, or X)
+9% — Online forums (like Reddit or Quora)
+6% — Podcasts
+3% — Traditional media (like TV, radio, or newspapers)
 
 ═══════════════════════════════════════════════════════════════════
 
