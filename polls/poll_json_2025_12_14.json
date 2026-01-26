@@ -52,19 +52,19 @@
     },
     {
       "question_id": "question_5_redacted",
-      "question_text": "REDACTED - This question is reserved for internal use.",
+      "question_text": "REDACTED - This question was conducted for a media partner and is exclusively available to that partner.",
       "response_type": "redacted",
       "results": null
     },
     {
       "question_id": "question_6_redacted",
-      "question_text": "REDACTED - This question is reserved for internal use.",
+      "question_text": "REDACTED - This question was conducted for a media partner and is exclusively available to that partner.",
       "response_type": "redacted",
       "results": null
     },
     {
       "question_id": "question_7_redacted",
-      "question_text": "REDACTED - This question is reserved for internal use.",
+      "question_text": "REDACTED - This question was conducted for a media partner and is exclusively available to that partner.",
       "response_type": "redacted",
       "results": null
     },
@@ -80,7 +80,7 @@
     },
     {
       "question_id": "question_9_redacted",
-      "question_text": "REDACTED - This question is reserved for internal use.",
+      "question_text": "REDACTED - This question was conducted for a media partner and is exclusively available to that partner.",
       "response_type": "redacted",
       "results": null
     },
