@@ -1,22 +1,43 @@
 NuggMD Cannabis Consumer Poll
-November 27 - November 30, 2025
-Sample: 277 respondents | Margin of error: ±5.89%
+January 8 - January 28, 2026
+Sample: 457 respondents | Margin of error: ±4.58%
 
 ═══════════════════════════════════════════════════════════════════
 
-QUESTION: What is your preferred method to consume cannabis?
+QUESTION 1: Do you support or oppose the executive order to reschedule cannabis?
+(n=457)
 
 RESULTS:
-46% - Smoke
-24% - Vape
-20% - Edibles
-5% - Tinctures
-2% - Topicals
-3% - Other
+83% - Support
+7% - Oppose
+10% - No opinion
 
 ═══════════════════════════════════════════════════════════════════
 
-METHODOLOGY: 
+QUESTION 2: While rescheduling is not legalization, it is expected to lead to more medical research into cannabis and for cannabis companies to realize the tax benefits available to most other businesses. To what extent do you care about those outcomes?
+(n=455)
+
+RESULTS:
+73% - A great deal
+22% - Some
+3% - A little bit
+2% - Not at all
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 3: If Congress were to legalize cannabis, would that change your level of support for the elected officials who represent your state and district?
+(n=455)
+
+RESULTS:
+36% - I would support them much more
+23% - I would support them a bit more
+40% - No change
+0% - I would support them a bit less
+1% - I would support them much less
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY:
 Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
 
 SAMPLE DETAILS:
@@ -32,7 +53,7 @@ Full data and methodology: https://github.com/drew-gra/cannabis-consumer-poll
 ═══════════════════════════════════════════════════════════════════
 
 About NuggMD Cannabis Consumer Poll:
-The NuggMD Cannabis Consumer Poll surveys a validated, representative 
+The NuggMD Cannabis Consumer Poll surveys a validated, representative
 sample of 1.2+ million cannabis consumers in state-legal markets.
 
 Repository: https://github.com/drew-gra/cannabis-consumer-poll
