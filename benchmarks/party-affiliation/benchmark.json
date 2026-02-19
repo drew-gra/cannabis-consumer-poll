@@ -1,0 +1,128 @@
+{
+  "benchmark_info": {
+    "benchmark_id": "ccp-party-affiliation",
+    "title": "Cannabis Consumer Party Affiliation Benchmark",
+    "description": "Rolling benchmark of the political party affiliation of cannabis consumers, compared against the general adult population of the same geographic footprint.",
+    "question_text": "Which of the following best describes your political affiliation?",
+    "response_options": ["Republican", "Democrat", "Other or Something Else"],
+    "methodology": "Each wave's affiliation data is drawn from a CCP omnibus or standalone poll. Results are pooled across waves to produce a consolidated estimate, which is compared against a geography-controlled general-population baseline from the Cooperative Election Study (CES).",
+    "last_updated": "2026-02-18"
+  },
+  "waves": [
+    {
+      "source_poll_id": "nuggmd-q2-omnibus-2025-06-03",
+      "source_poll_file": "polls/poll_json_2025_06_03.json",
+      "wave_label": "2Q25 OM",
+      "date_conducted": "May 19 - June 3, 2025",
+      "sample_size": 602,
+      "margin_of_error": "±3.99%",
+      "results_pct": {
+        "Republican": 28.7,
+        "Democrat": 38.9,
+        "Other or Something Else": 32.4
+      }
+    },
+    {
+      "source_poll_id": "nuggmd-q3-omnibus-2025-09-24",
+      "source_poll_file": "polls/poll_json_2025_09_24.json",
+      "wave_label": "3Q25 OM",
+      "date_conducted": "August 29 - September 24, 2025",
+      "sample_size": 574,
+      "margin_of_error": "±4.09%",
+      "results_pct": {
+        "Republican": 28.4,
+        "Democrat": 36.2,
+        "Other or Something Else": 35.4
+      }
+    },
+    {
+      "source_poll_id": "nuggmd-q4-omnibus-2025-12-14",
+      "source_poll_file": "polls/poll_json_2025_12_14.json",
+      "wave_label": "4Q25 OM",
+      "date_conducted": "December 4 - December 14, 2025",
+      "sample_size": 448,
+      "margin_of_error": "±4.63%",
+      "results_pct": {
+        "Republican": 24.6,
+        "Democrat": 33.3,
+        "Other or Something Else": 42.2
+      }
+    },
+    {
+      "source_poll_id": "nuggmd-rescheduling-legalization-2026-01-28",
+      "source_poll_file": "polls/poll_json_2026_01_28.json",
+      "wave_label": "S3 EO",
+      "date_conducted": "January 8 - January 28, 2026",
+      "sample_size": 457,
+      "margin_of_error": "±4.59%",
+      "results_pct": {
+        "Republican": 24.2,
+        "Democrat": 34.5,
+        "Other or Something Else": 41.3
+      }
+    }
+  ],
+  "pooled_estimate": {
+    "wave_count": 4,
+    "combined_sample_size": 2081,
+    "pooled_margin_of_error": "±2.15%",
+    "date_range": "May 19, 2025 - January 28, 2026",
+    "results_pct": {
+      "Republican": 26.5,
+      "Democrat": 35.7,
+      "Other or Something Else": 37.8
+    }
+  },
+  "baseline": {
+    "source": "Cooperative Election Study (CES) 2024 Common Content",
+    "source_url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X11EP6",
+    "date_conducted": "September - November 2024",
+    "national_sample_size": 60000,
+    "geographic_filter": "31 CCP states weighted composite",
+    "filtered_sample_size_weighted": 46069,
+    "weight_variable": "commonweight",
+    "party_id_variable": "pid3",
+    "party_id_mapping": {
+      "1": "Democrat",
+      "2": "Republican",
+      "3+4+5": "Other/Independent/Not Sure"
+    },
+    "results_pct": {
+      "Republican": 28.6,
+      "Democrat": 33.6,
+      "Other or Independent": 37.8
+    },
+    "national_results_pct": {
+      "Republican": 29.7,
+      "Democrat": 32.1,
+      "Other or Independent": 38.2
+    },
+    "geographic_skew_note": "The 31 CCP states are approximately 1.5 points more Democratic than the national average (33.6% vs. 32.1%), indicating geography explains very little of any observed differences.",
+    "states": [
+      "Arizona", "California", "Connecticut", "Delaware", "Florida",
+      "Georgia", "Hawaii", "Illinois", "Iowa", "Kentucky",
+      "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan",
+      "Minnesota", "Missouri", "Montana", "Nevada", "New Jersey",
+      "New Mexico", "New York", "North Dakota", "Ohio", "Oklahoma",
+      "Pennsylvania", "Texas", "Vermont", "Virginia", "Washington",
+      "West Virginia"
+    ]
+  },
+  "comparison": {
+    "method": "Pooled CCP estimate vs. CES 31-state weighted baseline",
+    "deltas": {
+      "Republican": -2.1,
+      "Democrat": 2.1,
+      "Other": 0.0
+    },
+    "interpretation": "Differences between cannabis consumers and the general population of the same states are within the pooled margin of error (±2.15%) for all three categories. No statistically significant difference in partisan affiliation is detected."
+  },
+  "context": {
+    "paragraph": "Across four waves of Cannabis Consumer Poll (CCP) data spanning May 2025 through January 2026 (combined n = 2,081), the political affiliation of cannabis consumers closely mirrors that of the general adult population in the same 31 states. Cannabis consumers identify as Republican (26.5%), Democrat (35.7%), and Other or unaffiliated (37.8%), compared to 28.6%, 33.6%, and 37.8% respectively among the general population of those states, as measured by the 2024 Cooperative Election Study. The differences — roughly two points on both the Republican and Democratic sides — fall within the pooled margin of error and are not statistically significant. Notably, the 31-state CCP footprint is only 1.5 points more Democratic than the nation as a whole, meaning geography explains very little of any surface-level differences between cannabis consumers and Americans broadly. To the extent cannabis consumers are distinctive at all in later waves, it is in a modest drift away from both major parties and toward unaffiliated status — a pattern consistent with the record-high 45% of Americans who identified as political independents nationally in 2025.",
+    "caveats": [
+      "CCP uses 'Other' or 'Something Else' while CES uses 'Independent/Other/Not Sure.' This may affect response distribution at the margins.",
+      "CES 2024 was fielded September-November 2024. CCP waves in this benchmark span the dates listed above. Party ID is slow-moving but not static.",
+      "CCP does not ask a partisan leaner follow-up, which is where most actionable political signal resides."
+    ]
+  }
+}
