@@ -1,7 +1,7 @@
 {
   "benchmark_info": {
     "benchmark_id": "ccp-party-affiliation",
-    "title": "Cannabis Consumer Party Affiliation Benchmark",
+    "title": "Party Affiliation",
     "description": "Rolling benchmark of the political party affiliation of cannabis consumers, compared against the general adult population of the same geographic footprint.",
     "question_text": "Which of the following best describes your political affiliation?",
     "response_options": ["Republican", "Democrat", "Other or Something Else"],
