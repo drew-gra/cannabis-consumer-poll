@@ -2,10 +2,10 @@
   "benchmark_info": {
     "benchmark_id": "ccp-party-affiliation",
     "title": "Party Affiliation",
-    "description": "Rolling benchmark of the political party affiliation of cannabis consumers, compared against the general adult population of the same geographic footprint.",
+    "description": "Rolling benchmark of the political affiliation of cannabis consumers, compared against the general adult population of the same geographic footprint.",
     "question_text": "Which of the following best describes your political affiliation?",
     "response_options": ["Republican", "Democrat", "Other or Something Else"],
-    "methodology": "Each wave's affiliation data is drawn from a CCP omnibus or standalone poll. Results are pooled across waves to produce a consolidated estimate, which is compared against a geography-controlled general-population baseline from the Cooperative Election Study (CES).",
+    "methodology": "Each wave's affiliation data is drawn from a CCP poll. Results are pooled across waves to produce a consolidated estimate, which is compared against a geography-controlled general-population baseline from the Cooperative Election Study (CES).",
     "last_updated": "2026-02-18"
   },
   "waves": [
@@ -118,11 +118,12 @@
     "interpretation": "Differences between cannabis consumers and the general population of the same states are within the pooled margin of error (±2.15%) for all three categories. No statistically significant difference in partisan affiliation is detected."
   },
   "context": {
-    "paragraph": "Across four waves of Cannabis Consumer Poll (CCP) data spanning May 2025 through January 2026 (combined n = 2,081), the political affiliation of cannabis consumers closely mirrors that of the general adult population in the same 31 states. Cannabis consumers identify as Republican (26.5%), Democrat (35.7%), and Other or unaffiliated (37.8%), compared to 28.6%, 33.6%, and 37.8% respectively among the general population of those states, as measured by the 2024 Cooperative Election Study. The differences — roughly two points on both the Republican and Democratic sides — fall within the pooled margin of error and are not statistically significant. Notably, the 31-state CCP footprint is only 1.5 points more Democratic than the nation as a whole, meaning geography explains very little of any surface-level differences between cannabis consumers and Americans broadly. To the extent cannabis consumers are distinctive at all in later waves, it is in a modest drift away from both major parties and toward unaffiliated status — a pattern consistent with the record-high 45% of Americans who identified as political independents nationally in 2025.",
+    "paragraph": "The data shows there is no statistically significant difference in political affiliation between cannabis consumers and the general adult population. Cannabis consumers are a politically ordinary cross-section of their states. Any federal action that facilitates lawful access to cannabis among responsible consumers would not serve any particular ideological interest.",
     "caveats": [
-      "CCP uses 'Other' or 'Something Else' while CES uses 'Independent/Other/Not Sure.' This may affect response distribution at the margins.",
-      "CES 2024 was fielded September-November 2024. CCP waves in this benchmark span the dates listed above. Party ID is slow-moving but not static.",
-      "CCP does not ask a partisan leaner follow-up, which is where most actionable political signal resides."
+      "The Poll's 31-state footprint is just 1.5 points more Democratic than the nation as a whole, meaning geography explains very little of any differences between cannabis consumers and the general adult public.",
+      "It uses 'Other' or 'Something Else' while CES uses 'Independent/Other/Not Sure.' This may affect response distribution at the margins.",
+      "CES 2024 was fielded September-November 2024. The waves in the Poll's benchmark began in 2025. Party ID is slow-moving but not static.",
+      "The Poll does not ask a partisan leaner follow-up, which is where most actionable political signal resides."
     ]
   }
 }
