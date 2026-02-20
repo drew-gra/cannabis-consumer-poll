@@ -118,12 +118,14 @@
     "interpretation": "Differences between cannabis consumers and the general population of the same states are within the pooled margin of error (±2.15%) for all three categories. No statistically significant difference in partisan affiliation is detected."
   },
   "context": {
-    "paragraph": "The data shows there is no statistically significant difference in political affiliation between cannabis consumers and the general adult population. Cannabis consumers are a politically ordinary cross-section of their states. Any federal action that facilitates lawful access to cannabis among responsible consumers would not serve any particular ideological interest.",
+    "paragraph": [
+      "IMPLICATIONS: The data shows there is no statistically significant difference in political affiliation between cannabis consumers and the general adult population. Cannabis consumers are a politically ordinary cross-section of their states. Any federal action that facilitates lawful access to cannabis among responsible consumers would not serve any particular ideological interest.",
+      "ATTRIBUTION: The NuggMD Cannabis Consumer Poll",
     "caveats": [
-      "The Poll's 31-state footprint is just 1.5 points more Democratic than the nation as a whole, meaning geography explains very little of any differences between cannabis consumers and the general adult public.",
-      "It uses 'Other' or 'Something Else' while CES uses 'Independent/Other/Not Sure.' This may affect response distribution at the margins.",
-      "CES 2024 was fielded September-November 2024. The waves in the Poll's benchmark began in 2025. Party ID is slow-moving but not static.",
-      "The Poll does not ask a partisan leaner follow-up, which is where most actionable political signal resides."
+      "CCP's 31-state footprint is just 1.5 points more Democratic than the nation as a whole, meaning geography explains very little of any differences between cannabis consumers and the general adult public.",
+      "CCP uses 'Other' or 'Something Else' while CES uses 'Independent/Other/Not Sure.' This may affect response distribution at the margins.",
+      "CES 2024 was fielded September-November 2024. CCP's benchmark began in 2025. Party ID is slow-moving but not static.",
+      "CCP does not ask a partisan leaner follow-up, which is where most actionable political signal resides."
     ]
   }
 }
