@@ -11,8 +11,8 @@ The NuggMD Cannabis Consumer Poll surveys a validated, representative sample of 
 |------|---------|----------|
 | [`latest-poll.json`](latest-poll.json) | Most recent poll data | Automated feeds, APIs |
 | [`latest-poll.txt`](latest-poll.txt) | Most recent poll data | Human eyes |
-| [`/poll_json_YYYY_MM_DD.json`](#) | Poll archive naming schema | Automated feeds, APIs |
-| [`/poll_txt_YYYY_MM_DD.txt`](#) | Poll archive naming schema | Human eyes |
+| [`polls/poll_json_YYYY_MM_DD.json`](#) | Poll archive naming schema | Automated feeds, APIs |
+| [`polls/poll_txt_YYYY_MM_DD.txt`](#) | Poll archive naming schema | Human eyes |
 
 ### Machine-Readable Feed
 ```
@@ -177,7 +177,7 @@ Individual questions may have different respondent counts if some were condition
 ## 📅 Poll Formats
 
 **Flash Polls:** One-question polls with no cross-tabs  
-**Omnibus Polls:** Multi-question polls with demographic cross-tabs  
+**Omnibus Polls:** Multi-question polls covering multiple topics in a single survey  
 **Trackers and Indexes:** Custom polls done in conjunction with media partners
 
 ---
