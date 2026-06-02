@@ -1,0 +1,192 @@
+NuggMD Cannabis Consumer Poll
+March 12 - April 13, 2026
+Sample: 534 respondents | Margin of error: ±4.24%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 1: Which best describes your relationship with home cannabis cultivation?
+(n=534)
+
+RESULTS:
+13% - I currently grow cannabis at home
+28% - I have grown cannabis at home in the past
+13% - I have never grown, but plan to start
+24% - I have never grown, but I would if barriers were removed
+22% - I have never grown and have no interest in doing so
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 2: What are the barriers preventing you from growing cannabis at home?
+
+NOTE: Asked only to respondents who answered "I have never grown, but I would if barriers were removed" to Question 1. Multi-select; percentages are based on 129 respondents and do not sum to 100%.
+(129 of 534 respondents answered this conditional question)
+
+RESULTS:
+78% - Legal uncertainty
+13% - Weather
+37% - Lack of space
+31% - Complexity
+42% - Startup costs
+22% - The time commitment required
+26% - Product might not be good
+5% - Other
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 3: In some areas, hemp THC products are available at stores and shops that are not regulated cannabis dispensaries. Do you believe these hemp THC products are of a higher quality, of a lower quality, or of the same quality compared to dispensary cannabis?
+(n=534)
+
+RESULTS:
+4% - Higher quality
+71% - Lower quality
+25% - About the same quality
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 4: How do you feel about each of the following methods of consuming cannabis?
+(n=534)
+
+SMOKING FLOWER:
+64% - Strong like
+19% - Like
+9% - Neutral
+5% - Dislike
+2% - Strong dislike
+1% - Never tried
+
+VAPING:
+30% - Strong like
+27% - Like
+21% - Neutral
+10% - Dislike
+6% - Strong dislike
+5% - Never tried
+
+EDIBLES:
+48% - Strong like
+27% - Like
+18% - Neutral
+5% - Dislike
+1% - Strong dislike
+1% - Never tried
+
+BEVERAGES:
+16% - Strong like
+18% - Like
+33% - Neutral
+9% - Dislike
+2% - Strong dislike
+22% - Never tried
+
+CONCENTRATES / DABBING:
+16% - Strong like
+17% - Like
+26% - Neutral
+9% - Dislike
+3% - Strong dislike
+28% - Never tried
+
+TINCTURES / SUBLINGUALS:
+15% - Strong like
+23% - Like
+29% - Neutral
+6% - Dislike
+1% - Strong dislike
+26% - Never tried
+
+TOPICALS / TRANSDERMALS:
+15% - Strong like
+18% - Like
+31% - Neutral
+6% - Dislike
+1% - Strong dislike
+29% - Never tried
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 5: Which best describes how you approach cannabis purchasing?
+(n=534)
+
+RESULTS:
+16% - I prioritize finding the lowest price for an acceptable product
+49% - I balance price and quality roughly equally
+32% - I prioritize quality more than price
+4% - I seek out premium products with higher price points
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 6: How much would cannabis prices need to increase before you changed your purchasing behavior?
+
+NOTE: Asked only to respondents who answered "I balance price and quality roughly equally" or "I prioritize finding the lowest price for an acceptable product" to Question 5
+(343 of 534 respondents answered this conditional question)
+
+RESULTS:
+23% - $5 or less
+36% - $6-10
+42% - More than $10
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 7: REDACTED
+This question was conducted for a media partner and is exclusively available to that partner.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 8: REDACTED
+This question was conducted for a media partner and is exclusively available to that partner.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 9: REDACTED
+This question was conducted for a media partner and is exclusively available to that partner.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 10: REDACTED
+This question was conducted for a media partner and is exclusively available to that partner.
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 11: To what degree do you understand the cannabis laws and regulations where you live?
+(n=534)
+
+RESULTS:
+48% - A great deal
+45% - Some
+6% - Not much
+1% - Not at all
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 12: As a cannabis consumer, to what extent do you care how cannabis tax revenue is spent in your state?
+(n=534)
+
+RESULTS:
+51% - A great deal
+37% - Some
+9% - Not much
+3% - Not at all
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY:
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: andrew.g@getnugg.com
+Full data and methodology: https://github.com/drew-gra/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/drew-gra/cannabis-consumer-poll
+Website: https://www.nuggmd.com/cannabis-consumer-polling

@@ -1,0 +1,193 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-q1-omnibus-2026-04-13",
+    "title": "NuggMD Cannabis Consumer Poll - Q1 2026 Omnibus",
+    "date_conducted": "March 12 - April 13, 2026",
+    "sample_size": 534,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "home_cultivation_relationship",
+      "question_text": "Which best describes your relationship with home cannabis cultivation?",
+      "response_type": "multiple_choice",
+      "results": {
+        "I currently grow cannabis at home": 13,
+        "I have grown cannabis at home in the past": 28,
+        "I have never grown, but plan to start": 13,
+        "I have never grown, but I would if barriers were removed": 24,
+        "I have never grown and have no interest in doing so": 22
+      }
+    },
+    {
+      "question_id": "home_cultivation_barriers",
+      "question_text": "What are the barriers preventing you from growing cannabis at home?",
+      "question_note": "Conditional question - asked only to respondents who answered 'I have never grown, but I would if barriers were removed' to Question 1. Multi-select; percentages based on 129 respondents and do not sum to 100%.",
+      "response_type": "multiple_select",
+      "respondents_who_answered": 129,
+      "results": {
+        "Legal uncertainty": 78,
+        "Weather": 13,
+        "Lack of space": 37,
+        "Complexity": 31,
+        "Startup costs": 42,
+        "The time commitment required": 22,
+        "Product might not be good": 26,
+        "Other": 5
+      }
+    },
+    {
+      "question_id": "hemp_thc_quality_perception",
+      "question_text": "In some areas, hemp THC products are available at stores and shops that are not regulated cannabis dispensaries. Do you believe these hemp THC products are of a higher quality, of a lower quality, or of the same quality compared to dispensary cannabis?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Higher quality": 4,
+        "Lower quality": 71,
+        "About the same quality": 25
+      }
+    },
+    {
+      "question_id": "consumption_method_sentiment",
+      "question_text": "How do you feel about each of the following methods of consuming cannabis?",
+      "response_type": "matrix_ranking",
+      "respondents_who_answered": 534,
+      "results": {
+        "Smoking flower": {
+          "Strong like": 64,
+          "Like": 19,
+          "Neutral": 9,
+          "Dislike": 5,
+          "Strong dislike": 2,
+          "Never tried": 1
+        },
+        "Vaping": {
+          "Strong like": 30,
+          "Like": 27,
+          "Neutral": 21,
+          "Dislike": 10,
+          "Strong dislike": 6,
+          "Never tried": 5
+        },
+        "Edibles": {
+          "Strong like": 48,
+          "Like": 27,
+          "Neutral": 18,
+          "Dislike": 5,
+          "Strong dislike": 1,
+          "Never tried": 1
+        },
+        "Beverages": {
+          "Strong like": 16,
+          "Like": 18,
+          "Neutral": 33,
+          "Dislike": 9,
+          "Strong dislike": 2,
+          "Never tried": 22
+        },
+        "Concentrates / dabbing": {
+          "Strong like": 16,
+          "Like": 17,
+          "Neutral": 26,
+          "Dislike": 9,
+          "Strong dislike": 3,
+          "Never tried": 28
+        },
+        "Tinctures / sublinguals": {
+          "Strong like": 15,
+          "Like": 23,
+          "Neutral": 29,
+          "Dislike": 6,
+          "Strong dislike": 1,
+          "Never tried": 26
+        },
+        "Topicals / transdermals": {
+          "Strong like": 15,
+          "Like": 18,
+          "Neutral": 31,
+          "Dislike": 6,
+          "Strong dislike": 1,
+          "Never tried": 29
+        }
+      }
+    },
+    {
+      "question_id": "purchasing_approach",
+      "question_text": "Which best describes how you approach cannabis purchasing?",
+      "response_type": "multiple_choice",
+      "results": {
+        "I prioritize finding the lowest price for an acceptable product": 16,
+        "I balance price and quality roughly equally": 49,
+        "I prioritize quality more than price": 32,
+        "I seek out premium products with higher price points": 4
+      }
+    },
+    {
+      "question_id": "price_increase_behavior_change",
+      "question_text": "How much would cannabis prices need to increase before you changed your purchasing behavior?",
+      "question_note": "Conditional question - asked only to respondents who answered 'I balance price and quality roughly equally' or 'I prioritize finding the lowest price for an acceptable product' to Question 5.",
+      "response_type": "multiple_choice",
+      "respondents_who_answered": 343,
+      "results": {
+        "$5 or less": 23,
+        "$6-10": 36,
+        "More than $10": 42
+      }
+    },
+    {
+      "question_id": "question_7_redacted",
+      "question_text": "REDACTED - This question was conducted for a media partner and is exclusively available to that partner.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "question_8_redacted",
+      "question_text": "REDACTED - This question was conducted for a media partner and is exclusively available to that partner.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "question_9_redacted",
+      "question_text": "REDACTED - This question was conducted for a media partner and is exclusively available to that partner.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "question_10_redacted",
+      "question_text": "REDACTED - This question was conducted for a media partner and is exclusively available to that partner.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "cannabis_law_understanding",
+      "question_text": "To what degree do you understand the cannabis laws and regulations where you live?",
+      "response_type": "multiple_choice",
+      "results": {
+        "A great deal": 48,
+        "Some": 45,
+        "Not much": 6,
+        "Not at all": 1
+      }
+    },
+    {
+      "question_id": "tax_revenue_spending_concern",
+      "question_text": "As a cannabis consumer, to what extent do you care how cannabis tax revenue is spent in your state?",
+      "response_type": "multiple_choice",
+      "results": {
+        "A great deal": 51,
+        "Some": 37,
+        "Not much": 9,
+        "Not at all": 3
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.24%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

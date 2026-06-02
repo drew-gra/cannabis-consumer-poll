@@ -6,7 +6,7 @@
     "question_text": "Which of the following best describes your political affiliation?",
     "response_options": ["Republican", "Democrat", "Other or Something Else"],
     "methodology": "Each wave's affiliation data is drawn from a CCP poll. Results are pooled across waves to produce a consolidated estimate, which is compared against a geography-controlled general-population baseline from the Cooperative Election Study (CES).",
-    "last_updated": "2026-02-18"
+    "last_updated": "2026-06-02"
   },
   "waves": [
     {
@@ -60,17 +60,43 @@
         "Democrat": 34.5,
         "Other or Something Else": 41.3
       }
+    },
+    {
+      "source_poll_id": "nuggmd-q1-omnibus-2026-04-13",
+      "source_poll_file": "polls/poll_json_2026_04_13.json",
+      "wave_label": "1Q26 OM",
+      "date_conducted": "March 12 - April 13, 2026",
+      "sample_size": 534,
+      "margin_of_error": "±4.24%",
+      "results_pct": {
+        "Republican": 29.0,
+        "Democrat": 32.8,
+        "Other or Something Else": 38.2
+      }
+    },
+    {
+      "source_poll_id": "nuggmd-rescheduling-legalization-2026-05-26",
+      "source_poll_file": "polls/poll_json_2026_05_26.json",
+      "wave_label": "S3 FO",
+      "date_conducted": "May 7 - May 26, 2026",
+      "sample_size": 484,
+      "margin_of_error": "±4.45%",
+      "results_pct": {
+        "Republican": 29.5,
+        "Democrat": 27.3,
+        "Other or Something Else": 43.2
+      }
     }
   ],
   "pooled_estimate": {
-    "wave_count": 4,
-    "combined_sample_size": 2081,
-    "pooled_margin_of_error": "±2.15%",
-    "date_range": "May 19, 2025 - January 28, 2026",
+    "wave_count": 6,
+    "combined_sample_size": 3099,
+    "pooled_margin_of_error": "±1.76%",
+    "date_range": "May 19, 2025 - May 26, 2026",
     "results_pct": {
-      "Republican": 26.5,
-      "Democrat": 35.7,
-      "Other or Something Else": 37.8
+      "Republican": 27.4,
+      "Democrat": 33.8,
+      "Other or Something Else": 38.8
     }
   },
   "baseline": {
@@ -111,11 +137,11 @@
   "comparison": {
     "method": "Pooled CCP estimate vs. CES 31-state weighted baseline",
     "deltas": {
-      "Republican": -2.1,
-      "Democrat": 2.1,
-      "Other": 0.0
+      "Republican": -1.2,
+      "Democrat": 0.2,
+      "Other": 1.0
     },
-    "interpretation": "Differences between cannabis consumers and the general population of the same states are within the pooled margin of error (±2.15%) for all three categories. No statistically significant difference in partisan affiliation is detected."
+    "interpretation": "Differences between cannabis consumers and the general population of the same states are within the pooled margin of error (±1.76%) for all three categories. No statistically significant difference in partisan affiliation is detected."
   },
   "context": {
     "paragraph": "We have tracked the political affiliation of cannabis consumers since May 2025. Comparing our data to a comparable poll of the general public shows no statistically significant difference in political affiliation between cannabis consumers and the general population.",

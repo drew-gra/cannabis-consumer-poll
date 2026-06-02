@@ -1,0 +1,49 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-rescheduling-legalization-2026-05-26",
+    "title": "NuggMD Cannabis Consumer Poll - Rescheduling & Legalization",
+    "date_conducted": "May 7 - May 26, 2026",
+    "sample_size": 484,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "medical_rescheduling_policy_feeling",
+      "question_text": "Recently, the administration eased federal restrictions on cannabis that's used for medical purposes only. This means rescheduling has partially occurred. How do you feel about this policy?",
+      "response_type": "multiple_choice",
+      "results": {
+        "I support it": 86,
+        "I oppose it": 4,
+        "I don't have an opinion on it": 10
+      }
+    },
+    {
+      "question_id": "question_2_redacted",
+      "question_text": "REDACTED - This question was conducted for a media partner and is exclusively available to that partner.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "question_3_redacted",
+      "question_text": "REDACTED - This question was conducted for a media partner and is exclusively available to that partner.",
+      "response_type": "redacted",
+      "results": null
+    },
+    {
+      "question_id": "question_4_redacted",
+      "question_text": "REDACTED - This question was conducted for a media partner and is exclusively available to that partner.",
+      "response_type": "redacted",
+      "results": null
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.45%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

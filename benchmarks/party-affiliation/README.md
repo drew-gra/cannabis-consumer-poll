@@ -10,15 +10,15 @@ There is no statistically significant difference in partisan affiliation between
 
 | Group | Republican | Democrat | Other / Unaffiliated |
 |---|---|---|---|
-| **CCP pooled (n = 2,081)** | 26.5% | 35.7% | 37.8% |
+| **CCP pooled (n = 3,099)** | 27.4% | 33.8% | 38.8% |
 | **CES 2024, same 31 states (n = 46,069)** | 28.6% | 33.6% | 37.8% |
-| **Δ (CCP − CES)** | −2.1 | +2.1 | 0.0 |
+| **Δ (CCP − CES)** | −1.2 | +0.2 | +1.0 |
 
-All deltas fall within the pooled margin of error (±2.15%). The 31 CCP states are only ~1.5 points more Democratic than the nation as a whole, so geography explains very little of any surface-level differences.
+All deltas fall within the pooled margin of error (±1.76%). The 31 CCP states are only ~1.5 points more Democratic than the nation as a whole, so geography explains very little of any surface-level differences.
 
 ## Context paragraph
 
-> Across four waves of Cannabis Consumer Poll (CCP) data spanning May 2025 through January 2026 (combined n = 2,081), the political affiliation of cannabis consumers closely mirrors that of the general adult population in the same 31 states. Cannabis consumers identify as Republican (26.5%), Democrat (35.7%), and Other or unaffiliated (37.8%), compared to 28.6%, 33.6%, and 37.8% respectively among the general population of those states, as measured by the 2024 Cooperative Election Study. The differences — roughly two points on both the Republican and Democratic sides — fall within the pooled margin of error and are not statistically significant. Notably, the 31-state CCP footprint is only 1.5 points more Democratic than the nation as a whole, meaning geography explains very little of any surface-level differences between cannabis consumers and Americans broadly. To the extent cannabis consumers are distinctive at all in later waves, it is in a modest drift away from both major parties and toward unaffiliated status — a pattern consistent with the record-high 45% of Americans who identified as political independents nationally in 2025.
+> Across six waves of Cannabis Consumer Poll (CCP) data spanning May 2025 through May 2026 (combined n = 3,099), the political affiliation of cannabis consumers closely mirrors that of the general adult population in the same 31 states. Cannabis consumers identify as Republican (27.4%), Democrat (33.8%), and Other or unaffiliated (38.8%), compared to 28.6%, 33.6%, and 37.8% respectively among the general population of those states, as measured by the 2024 Cooperative Election Study. The differences — about a point on each axis — fall within the pooled margin of error and are not statistically significant. Notably, the 31-state CCP footprint is only 1.5 points more Democratic than the nation as a whole, meaning geography explains very little of any surface-level differences between cannabis consumers and Americans broadly. To the extent cannabis consumers are distinctive at all, it is in a modest tilt away from both major parties and toward unaffiliated status — a pattern consistent with the record-high 45% of Americans who identified as political independents nationally in 2025.
 
 ## Source polls
 
@@ -28,6 +28,8 @@ All deltas fall within the pooled margin of error (±2.15%). The 31 CCP states a
 | 3Q25 OM | `nuggmd-q3-omnibus-2025-09-24` | Aug 29 – Sep 24, 2025 | 574 | ±4.09% | 28.4% | 36.2% | 35.4% |
 | 4Q25 OM | `nuggmd-q4-omnibus-2025-12-14` | Dec 4 – Dec 14, 2025 | 448 | ±4.63% | 24.6% | 33.3% | 42.2% |
 | S3 EO | `nuggmd-rescheduling-legalization-2026-01-28` | Jan 8 – Jan 28, 2026 | 457 | ±4.59% | 24.2% | 34.5% | 41.3% |
+| 1Q26 OM | `nuggmd-q1-omnibus-2026-04-13` | Mar 12 – Apr 13, 2026 | 534 | ±4.24% | 29.0% | 32.8% | 38.2% |
+| S3 FO | `nuggmd-rescheduling-legalization-2026-05-26` | May 7 – May 26, 2026 | 484 | ±4.45% | 29.5% | 27.3% | 43.2% |
 
 ## General-population baseline
 
