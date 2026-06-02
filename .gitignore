@@ -1,0 +1,12 @@
+# Local staging area for upcoming polls.
+# Raw exports (Typeform CSVs, draft TXT, working notes) live here while a poll
+# is being prepared. Nothing inside ever reaches GitHub — EXCEPT this folder's
+# README, which documents the workflow.
+_to_publish/*
+!_to_publish/README.md
+
+# Backstop: never commit raw exports left in the repo root.
+/*.csv
+
+# OS / editor noise
+.DS_Store
