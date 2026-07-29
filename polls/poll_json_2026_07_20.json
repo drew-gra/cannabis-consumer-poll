@@ -1,0 +1,34 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-thca-ban-2026-07-20",
+    "title": "NuggMD Cannabis Consumer Poll - Hemp Ban",
+    "date_conducted": "July 16 - July 20, 2026",
+    "sample_size": 583,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "thca_hemp_ban_affect_on_cannabis_access",
+      "question_text": "Several states have just banned hemp-derived THC products like THCA. How have these bans affected your access to cannabis?",
+      "response_type": "multiple_choice",
+      "results": {
+        "I got my medical cannabis card": 292,
+        "I've switched to licensed dispensaries": 33,
+        "I've had trouble finding products": 45,
+        "No impact": 116,
+        "I don't use hemp-derived products": 48,
+        "I was not aware of these state changes": 49
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.06%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

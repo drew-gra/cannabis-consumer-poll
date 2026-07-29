@@ -1,0 +1,40 @@
+NuggMD Cannabis Consumer Poll
+July 16 - July 20, 2026
+Sample: 583 respondents | Margin of error: ±4.06%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 1: Several states have just banned hemp-derived THC products like THCA. How have these bans affected your access to cannabis?
+(n=583)
+
+RESULTS:
+50% - I got my medical cannabis card
+6% - I've switched to licensed dispensaries
+8% - I've had trouble finding products
+20% - No impact
+8% - I don't use hemp-derived products
+8% - I was not aware of these state changes
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY:
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: tyler.e@getnugg.com
+Full data and methodology: https://github.com/getnugg/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/getnugg/cannabis-consumer-poll
+Website: https://newsroom.nuggmd.com/

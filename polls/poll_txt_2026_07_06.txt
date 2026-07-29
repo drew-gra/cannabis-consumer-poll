@@ -1,0 +1,36 @@
+NuggMD Cannabis Consumer Poll
+July 02 - July 06, 2026
+Sample: 1063 respondents | Margin of error: ±3.01%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 1: In April, medical cannabis was partially rescheduled, moved to a less-restricted category. Now, the federal government is weighing whether to extend that change to all other cannabis, which remained federally prohibited. Do you think that will happen by the end of the year?
+(n=1063)
+
+RESULTS:
+47.5% - Yes
+52.5% - No
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY:
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: tyler.e@getnugg.com
+Full data and methodology: https://github.com/getnugg/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/getnugg/cannabis-consumer-poll
+Website: https://newsroom.nuggmd.com/
