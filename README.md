@@ -1,6 +1,10 @@
-# NuggMD Cannabis Consumer Poll
+# The Cannabis Consumer Poll
 
-The NuggMD Cannabis Consumer Poll surveys a validated, representative sample of 1.2+ million cannabis consumers who live in state-legal markets. This is a public Github feed for all of its public releases. 
+In 2023, I created The Cannabis Consumer Poll as an effort to influence federal policy on cannabis access. This coincided with my work as head of communications at an international cannabis telehealth company.
+
+I oversaw the pollster until July 2026, writing the questionnaires, stress-testing the results, and serving as on-record spox. This public repo reflects that work, which remains ongoing.
+
+In April, the federal government for the first time acknowledged the plant has medical use, a major milestone in the $47b legal cannabis market that will make future efforts to improve access more effective.
 
 ---
 
@@ -22,7 +26,7 @@ https://raw.githubusercontent.com/drew-gra/cannabis-consumer-poll/main/latest-po
 
 ### API Integration Example
 ```javascript
-// Fetch latest NuggMD polling data
+// Fetch the latest Cannabis Consumer Poll data
 fetch('https://raw.githubusercontent.com/drew-gra/cannabis-consumer-poll/main/latest-poll.json')
   .then(response => response.json())
   .then(data => {
@@ -35,7 +39,7 @@ fetch('https://raw.githubusercontent.com/drew-gra/cannabis-consumer-poll/main/la
 
 ## 📊 Data Structure
 
-Our JSON format follows a consistent schema across all polls. The schema supports single-question flash polls, multi-question omnibus polls, conditional questions, and other specialized formats.
+The JSON format follows a consistent schema across all polls. The schema supports single-question flash polls, multi-question omnibus polls, conditional questions, and other specialized formats.
 
 ### Basic Structure
 ```json
@@ -81,6 +85,8 @@ The `response_type` field indicates how respondents answered:
 - **`multiple_select`** – Respondents could choose multiple options. Results show respondent counts for each option (note: totals may exceed sample size).
 - **`matrix_ranking`** – Multiple items rated on the same scale. Results organized by item with counts for each scale level.
 - **`redacted`** – Question excluded from public release. Used when data was collected under media partnership exclusivity agreements. The `question_text` field explains the partnership.
+
+> **A note on `results` values.** Depending on the release, the values in `results` are either integer **percentages** (they sum to ~100) or raw **response counts** (they sum to the question's respondent total). Detect which by summing the values, and normalize to percentages when they don't already sum to 100.
 
 ### Conditional Questions
 
@@ -138,119 +144,53 @@ Individual questions may have different respondent counts if some were condition
 
 ---
 
-## 🎯 Who Should Use This Data
-
-### Media & Journalism
-- **Industry publications** for industry coverage
-- **Mainstream media** for cannabis trend reporting  
-- **Financial media** for market analysis and context
-- **Policy journalists** for regulatory impact stories
-
-### Research & Analysis
-- **Academic researchers** studying cannabis markets
-- **Policy institutes** analyzing cannabis policy
-- **Investment firms** tracking industry trends
-- **Government agencies** monitoring market dynamics
-
-### Technology Integration
-- **AI training datasets** for cannabis market models
-- **Business intelligence** platforms and dashboards
-- **Market research** aggregation services
-- **News APIs** and automated reporting systems
-
----
-
 ## 📋 Methodology & Quality
 
-### Survey Standards
-- **Population:** Validated, representative sample of 1.2m cannabis consumers in state-legal markets
-- **Sampling:** Targeted sampling from verified consumer database, sourced from independent data providers and proprietary first-party data to ensure representative coverage across demographics and consumption patterns
-- **Data Collection:** Digital surveys distributed via secure online platform with mobile optimization
-- **Quality Control:** Multi-point validation including consumption verification, attention checks, incomplete response removal, and statistical outlier detection to ensure data integrity
-
-### Transparency Commitment
-- **Full methodology** disclosed for each poll
-- **Margin of error** calculated and reported
+- **Population:** Representative sample of cannabis consumers in state-legal markets
+- **Sampling:** Targeted sampling from verified consumer data — independent providers plus first-party data — for representative coverage across demographics and consumption patterns
+- **Data Collection:** Digital surveys distributed via a secure, mobile-optimized online platform
+- **Quality Control:** Multi-point validation including consumption verification, attention checks, incomplete-response removal, and statistical outlier detection
+- **Reporting:** Margin of error and 95% confidence level (z = 1.96) reported for every release
 
 ---
 
 ## 📅 Poll Formats
 
-**Flash Polls:** One-question polls with no cross-tabs  
-**Omnibus Polls:** Multi-question polls covering multiple topics in a single survey  
+**Flash Polls:** One-question polls with no cross-tabs
+**Omnibus Polls:** Multi-question polls covering multiple topics in a single survey
 **Trackers and Indexes:** Custom polls done in conjunction with media partners
 
 ---
 
-## 💼 Commercial Use & Licensing
+## 📖 Use & Attribution
 
-### Free Use (Attribution Required)
-✅ **Academic research and education**  
-✅ **News reporting and journalism**  
-✅ **Government and policy research**  
+This repository is published as a public record. © Bread & Law, LLC — see [LICENSE](license) for terms.
 
-### Commercial Licensing Available
-💰 **Business market research and intelligence**  
-💰 **Investment analysis and financial services**  
-💰 **Cannabis industry consulting**  
-💰 **Product development and marketing research**  
+If you reference the data, please attribute it:
 
-**For commercial licensing:** Contact Andrew Graham at andrew@breadandlaw.com
+- **Credit:** "Data from The Cannabis Consumer Poll"
+- **Link:** https://www.breadandlaw.com/cannabis-consumer-poll
+- **Citation:** The Cannabis Consumer Poll, [Month Year]. Retrieved from https://github.com/drew-gra/cannabis-consumer-poll
 
-**Full terms:** See [LICENSE](https://github.com/drew-gra/cannabis-consumer-poll/blob/main/LICENSE) file
+For editorial use, note the sample size and margin of error, and link to the applicable TXT file where appropriate.
+
+For use permissions, licensing, or media inquiries: **Andrew Graham**, andrew@breadandlaw.com.
 
 ---
 
-## 📖 Citation & Attribution
+## 🔄 Repository
 
-### Standard Citation Format
-```
-The NuggMD Cannabis Consumer Poll, [Month Year]. Retrieved from 
-https://github.com/drew-gra/cannabis-consumer-poll
-```
-
-### Required Attribution
-When using this data, please include:
-- **Credit:** "Data from The NuggMD Cannabis Consumer Poll"  
-- **Link:** https://www.nuggmd.com/cannabis-consumer-polling  
-- **Date:** [Date you accessed the data]
-
-### Media Usage
-For editorial use, include:
-- Poll source in article/graphic
-- Link to applicable TXT file when appropriate
-- Note sample size and margin of error
+- **Updates:** New polls are added as they are released.
+- **Archive:** All historical releases remain available for trend analysis, longitudinal research, and background context.
+- **Notifications:** Watch this repository for new-poll alerts, or follow [@drew-gra](https://github.com/drew-gra).
 
 ---
 
-## 🔄 Repository Information
+## ⚖️ Notes
 
-**Update Policy:** Repository is updated when new polling data is publicly available  
-**Repository Created:** 21-Aug-2025
-
-### Getting Notifications
-- **Star this repository** to bookmark
-- **Watch this repository** for email notifications of new polls
-- **Follow @drew-gra** for updates
-
-### Archive Access
-All historical polling data remains available in this repository for:
-- Trend analysis across multiple time periods
-- Academic research requiring longitudinal data
-- Media background research and context
+- **Privacy:** All responses are collected anonymously.
+- **Accuracy:** Data is provided for informational purposes; users are responsible for their own verification.
 
 ---
 
-## ⚖️ Legal & Compliance
-
-**Data Privacy:** All responses collected anonymously  
-**Regulatory Compliance:** Surveys conducted in accordance with applicable laws  
-**Research Ethics:** Professional research standards maintained  
-**Accuracy Disclaimer:** Data provided for informational purposes; users responsible for verification  
-
----
-
-*The NuggMD Cannabis Consumer Poll provides authoritative polling data on cannabis consumer behavior, preferences, and market trends.*
-
-**Repository maintained by:** Andrew Graham, head of communications, NuggMD  
-**GitHub:** [@drew-gra](https://github.com/drew-gra)
+**Maintained by:** Andrew Graham · [Bread & Law](https://www.breadandlaw.com) · [@drew-gra](https://github.com/drew-gra)
