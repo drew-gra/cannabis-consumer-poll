@@ -1,0 +1,50 @@
+name: Sync poll data from getnugg
+
+# Mirrors NuggMD's published poll data (getnugg/cannabis-consumer-poll) into
+# this repo once a day, so breadandlaw.com's Cannabis Consumer Poll microsite
+# stays current while reading from — and linking to — this namespace instead of
+# NuggMD's. Only the data paths are copied; README / LICENSE are left alone.
+#
+# Schedule note: GitHub cron is UTC and does NOT observe daylight saving.
+# 14:00 UTC = 10:00 AM ET during EDT (mid-Mar–early-Nov) and 9:00 AM ET during
+# EST. There is no single UTC time that stays exactly 10:00 ET year-round.
+
+on:
+  schedule:
+    - cron: '0 14 * * *'   # daily, 14:00 UTC (10:00 AM ET while on EDT)
+  workflow_dispatch: {}      # allows a manual run from the Actions tab
+
+permissions:
+  contents: write            # lets the built-in token push the sync commit
+
+concurrency:
+  group: sync-poll-data
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this data repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pull latest published data from getnugg
+        run: |
+          git remote add getnugg https://github.com/getnugg/cannabis-consumer-poll.git
+          git fetch --quiet getnugg
+          git checkout getnugg/main -- polls benchmarks latest-poll.json
+
+      - name: Commit and push if anything changed
+        run: |
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "Already current with getnugg — nothing to sync."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A -- polls benchmarks latest-poll.json
+          git commit -m "Sync poll data from getnugg ($(date -u +%Y-%m-%d))"
+          git push
+          echo "Synced. The microsite picks it up on its next hourly rebuild."
