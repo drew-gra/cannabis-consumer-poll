@@ -1,0 +1,33 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-summer-cannabis-go-to-2026-07-28",
+    "title": "NuggMD Cannabis Consumer Poll - Go-To Way to Consume Cannabis in Summer Heat",
+    "date_conducted": "July 23, 2026 - July 28, 2026",
+    "sample_size": 753,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "go_to_way_to_use_cannabis_summer_heat",
+      "question_text": "What's your go-to way to use cannabis in the summer heat?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Flower/smoking": 380,
+        "Edibles": 144,
+        "Beverages": 35,
+        "Vapes": 179,
+        "Topicals": 15
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±3.57%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}
