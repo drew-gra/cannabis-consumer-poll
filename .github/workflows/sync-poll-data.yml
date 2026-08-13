@@ -36,6 +36,9 @@ jobs:
           git fetch --quiet getnugg
           git checkout getnugg/main -- polls benchmarks latest-poll.json
 
+      - name: Rebuild the aggregate feed
+        run: node scripts/build-feed.mjs
+
       - name: Commit and push if anything changed
         run: |
           if git diff --quiet && git diff --cached --quiet; then
@@ -44,7 +47,7 @@ jobs:
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A -- polls benchmarks latest-poll.json
+          git add -A -- polls benchmarks latest-poll.json feed.json
           git commit -m "Sync poll data from getnugg ($(date -u +%Y-%m-%d))"
           git push
           echo "Synced. The microsite picks it up on its next hourly rebuild."
