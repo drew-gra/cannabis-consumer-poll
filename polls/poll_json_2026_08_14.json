@@ -1,0 +1,32 @@
+{
+  "poll_info": {
+    "poll_id": "cannabis-safety-priorities-2026-08-17",
+    "title": "NuggMD Cannabis Consumer Safety Priorities Poll",
+    "date_conducted": "July 16 - July 20, 2026",
+    "sample_size": 513,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "what_would_consumers_fix_first_for_cannabis_safety",
+      "question_text": "If you could fix ONE thing about cannabis safety, what would be your top priority?(n=513)",
+      "response_type": "multiple_choice",
+      "results": {
+        "Cracking down on unregulated products": 68,
+        "Stronger testing standards": 204,
+        "Easier, more affordable access to licensed markets": 108,
+        "Clearer education on products and dosing": 133
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.33%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

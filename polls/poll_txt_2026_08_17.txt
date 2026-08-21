@@ -1,0 +1,48 @@
+﻿NuggMD Cannabis Consumer Poll
+August 14, 2026 - August 17, 2026
+Sample: 513 respondents | Margin of error: ±4.33%
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+QUESTION 1: If you could fix ONE thing about cannabis safety, what would be your top priority?
+(n=513)
+
+
+RESULTS:
+13% - Cracking down on unregulated products 
+40% - Stronger testing standards 
+21% - Easier, more affordable access to licensed markets 
+26%  - Clearer education on products and dosing 
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+METHODOLOGY:
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+
+CONTACT:
+Media inquiries: tyler.e@getnugg.com
+Full data and methodology: https://github.com/getnugg/cannabis-consumer-poll
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+
+Repository: https://github.com/getnugg/cannabis-consumer-poll
+Website: https://newsroom.nuggmd.com/
