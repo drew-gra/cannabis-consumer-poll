@@ -39,7 +39,9 @@ jobs:
       - name: Rebuild the aggregate feed
         run: node scripts/build-feed.mjs
 
-      - name: Commit and push if anything changed
+      - name: Commit, push, and trigger the microsite rebuild
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
         run: |
           if git diff --quiet && git diff --cached --quiet; then
             echo "Already current with getnugg — nothing to sync."
@@ -50,4 +52,12 @@ jobs:
           git add -A -- polls benchmarks latest-poll.json feed.json
           git commit -m "Sync poll data from getnugg ($(date -u +%Y-%m-%d))"
           git push
-          echo "Synced. The microsite picks it up on its next hourly rebuild."
+          # New data landed — ping the Vercel deploy hook so breadandlaw.com
+          # rebuilds now instead of waiting on lazy ISR revalidation.
+          if [ -n "${VERCEL_DEPLOY_HOOK}" ]; then
+            curl -fsS -X POST "${VERCEL_DEPLOY_HOOK}" > /dev/null \
+              && echo "Triggered Vercel production rebuild." \
+              || echo "WARNING: deploy hook ping failed (data is synced; site will catch up on next rebuild)."
+          else
+            echo "No VERCEL_DEPLOY_HOOK secret set — skipping rebuild trigger."
+          fi
