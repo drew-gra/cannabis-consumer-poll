@@ -1,0 +1,33 @@
+{
+  "poll_info": {
+    "poll_id": "nondispensary-testing-standards-consumer-awareness-2026-08-24",
+    "title": "NuggMD Non-Dispensary Testing Standards Awareness Poll",
+    "date_conducted": "August 20 - August 24, 2026",
+    "sample_size": 527,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "are_consumers_aware_of_testing_standards_at_other_locations",
+      "question_text": "Are you aware of the testing standards for products sold at locations other than licensed dispensaries?(n=527)",
+      "response_type": "multiple_choice",
+      "results": {
+        "Yes, I check product testing before buying": 104,
+        "No, I assume it is tested/regulated": 140,
+        "No, I assume it isn’t tested/regulated": 135,
+        "I don’t care, it doesn't change what I buy": 42,
+        "I never thought about it": 106
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.27%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

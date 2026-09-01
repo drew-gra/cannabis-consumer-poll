@@ -1,0 +1,33 @@
+{
+  "poll_info": {
+    "poll_id": "would-cannabis-mailed-to-you-change-how-you-shop-2026-08-31",
+    "title": "NuggMD Medical Cannabis Delivery Behavior Poll",
+    "date_conducted": "August 27 - August 31, 2026",
+    "sample_size": 596,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "if_medical_cannabis_could_be_mailed_would_that_change_how_you_shop",
+      "question_text": "If medical cannabis could be mailed straight to your door, would that change how you shop?(n=596)",
+      "response_type": "multiple_choice",
+      "results": {
+        "Yes, because there isn't a dispensary within a reasonable distance of where I live": 187,
+        "Yes, even though there's a local dispensary, health or mobility issues make it hard for me to get there": 142,
+        "No, I prefer buying in person": 100,
+        "No, I'd have privacy or security concerns about receiving it by mail": 42,
+        "Not sure, I'd want more details (cost, packaging, delivery time) first": 125
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.01%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}
