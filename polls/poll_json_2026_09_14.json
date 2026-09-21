@@ -1,0 +1,33 @@
+{
+  "poll_info": {
+    "poll_id": "who-at-work-knows-you-consume-2026-09-14",
+    "title": "NuggMD Employed Consumption Knowledge Poll",
+    "date_conducted": "September 10 - September 14, 2026",
+    "sample_size": 535,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "who_at_work_knows_you_consume_cannabis",
+      "question_text": "Who at your workplace, if anyone, knows you're a cannabis patient or consumer?",
+      "response_type": "multiple_choice",
+      "results": {
+        "No one": 156,
+        "Just a coworker or two": 107,
+        "My manager or the leadership team": 30,
+        "Pretty much everyone": 101,
+        "Not applicable/I'm self-employed": 141
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.24%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

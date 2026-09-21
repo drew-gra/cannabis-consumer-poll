@@ -1,0 +1,32 @@
+{
+  "poll_info": {
+    "poll_id": "nuggmd-do-you-hide-cannabis-use-from-family-2026-09-08",
+    "title": "NuggMD Cannabis Consumer Poll - Have You Ever Hidden Cannabis Use from a Loved One",
+    "date_conducted": "September 3, 2026 - September 8, 2026",
+    "sample_size": 605,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "hide_cannabis_use",
+      "question_text": "Have you ever hidden your cannabis use from a loved one?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Yes, I keep my cannabis use private.": 82,
+        "Yes, but only for specific family/loved ones.": 171,
+        "I used to, but I don't hide my use anymore.": 176,
+        "No, I've never hidden my consumption.": 176
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±3.98%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

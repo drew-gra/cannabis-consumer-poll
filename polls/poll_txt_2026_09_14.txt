@@ -1,0 +1,49 @@
+NuggMD Cannabis Consumer Poll
+September 10, 2026 - September 14, 2026
+Sample: 535 respondents | Margin of error: ±4.24%
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+QUESTION 1: Who at your workplace, if anyone, knows you're a cannabis patient or consumer?
+(n=535)
+
+
+RESULTS:
+29% - No one
+20% - Just a coworker or two
+6% - My manager or the leadership team
+19%  - Pretty much everyone
+26%  - Not applicable/I'm self-employed
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+METHODOLOGY:
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+
+CONTACT:
+Media inquiries: tyler.e@getnugg.com
+Full data and methodology: https://github.com/getnugg/cannabis-consumer-poll
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+
+Repository: https://github.com/getnugg/cannabis-consumer-poll
+Website: https://newsroom.nuggmd.com/
