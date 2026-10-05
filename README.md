@@ -174,7 +174,7 @@ If you reference the data, please attribute it:
 
 For editorial use, note the sample size and margin of error, and link to the applicable TXT file where appropriate.
 
-For use permissions, licensing, or media inquiries: **Andrew Graham**, andrew@breadandlaw.com.
+For use permissions, licensing, or media inquiries: **Andrew Graham**, andrew[at]breadandlaw.com.
 
 ---
 
