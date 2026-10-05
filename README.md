@@ -1,8 +1,8 @@
 # The Cannabis Consumer Poll
 
-In 2023, I created The Cannabis Consumer Poll as an effort to influence federal policy on cannabis access. This coincided with my work as head of communications at an international cannabis telehealth company.
+In 2023, I created The Cannabis Consumer Poll as an effort to influence federal policy on cannabis access. I directed it from 2023 to July 2026 as an independent contractor.
 
-I oversaw the pollster until July 2026, writing the questionnaires, stress-testing the results, and serving as on-record spox. This public repo reflects that work, which remains ongoing.
+During that period I wrote, fielded, and interpreted the polls and served as on-record spox. This public repo is a personal archive of that work, which remains ongoing.
 
 In April, the federal government for the first time acknowledged the plant has medical use, a major milestone in the $47b legal cannabis market that will make future efforts to improve access more effective.
 
@@ -164,12 +164,12 @@ Individual questions may have different respondent counts if some were condition
 
 ## 📖 Use & Attribution
 
-This repository is published as a public record. © Bread & Law, LLC — see [LICENSE](license) for terms.
+This repository is a personal, public archive. Its contents are licensed CC BY 4.0; factual data (response percentages, sample sizes, field dates) may be used freely. See [LICENSE](license) for terms.
 
 If you reference the data, please attribute it:
 
 - **Credit:** "Data from The Cannabis Consumer Poll"
-- **Link:** https://www.breadandlaw.com/cannabis-consumer-poll
+- **Link:** https://tools.breadandlaw.com/cannabis-consumer-poll
 - **Citation:** The Cannabis Consumer Poll, [Month Year]. Retrieved from https://github.com/drew-gra/cannabis-consumer-poll
 
 For editorial use, note the sample size and margin of error, and link to the applicable TXT file where appropriate.
