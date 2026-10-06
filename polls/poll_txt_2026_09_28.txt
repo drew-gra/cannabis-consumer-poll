@@ -1,0 +1,51 @@
+NuggMD Cannabis Consumer Poll
+September 24, 2026 - September 28, 2026
+Sample: 1005 respondents | Margin of error: ±3.09%
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+QUESTION 1: How much has cannabis replaced your alcohol consumption?
+(n=1005)
+
+
+RESULTS:
+32% - I have completely replaced alcohol with cannabis.
+26% - It has greatly decreased my alcohol consumption.
+8% - It has somewhat decreased my alcohol consumption.
+10% - It has not changed my alcohol consumption.
+2%  - It has somewhat increased my alcohol consumption.
+3%  - It has greatly increased my alcohol consumption.
+20% - I don't drink alcohol, so this doesn't apply to me.
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+METHODOLOGY:
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+
+CONTACT:
+Media inquiries: tyler.e@getnugg.com
+Full data and methodology: https://github.com/getnugg/cannabis-consumer-poll
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+
+Repository: https://github.com/getnugg/cannabis-consumer-poll
+Website: https://newsroom.nuggmd.com/

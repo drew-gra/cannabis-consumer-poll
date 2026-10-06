@@ -1,0 +1,35 @@
+{
+  "poll_info": {
+    "poll_id": "how-much-has-cannabis-changed-your-alcohol-consumption-2026-09-28",
+    "title": "NuggMD Poll: Are Cannabis Patients Drinking Less?",
+    "date_conducted": "September 24 - September 26, 2026",
+    "sample_size": 1005,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "how_much_has_cannabis_replaced_your_alcohol_consumption",
+      "question_text": "How much has cannabis replaced your alcohol consumption?",
+      "response_type": "multiple_choice",
+      "results": {
+        "I have completely replaced alcohol with cannabis.": 317,
+        "It has greatly decreased my alcohol consumption.": 259,
+        "It has somewhat decreased my alcohol consumption.": 85,
+        "It has not changed my alcohol consumption.": 98,
+        "It has somewhat increased my alcohol consumption.": 21,
+	"It has greatly increased my alcohol consumption.": 27,
+	"I don't drink alcohol, so this doesn't apply to me.": 198
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±3.09%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

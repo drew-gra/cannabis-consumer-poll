@@ -1,0 +1,35 @@
+{
+  "poll_info": {
+    "poll_id": "how-much-more-would-you-pay-for-third-party-lab-results-on-label-2026-10-05",
+    "title": "NuggMD Poll: Would Cannabis Consumers Pay More for Lab-Tested Products?",
+    "date_conducted": "October 1 - October 5, 2026",
+    "sample_size": 528,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "how_much_more_would_you_pay_for_third_party_lab_results_on_label",
+      "question_text": "How much more would you pay for a product with third-party lab results on the label?",
+      "response_type": "multiple_choice",
+      "results": {
+        "I only buy lab-tested products, no matter the price.": 102,
+        "I'd pay a lot more for it.": 24,
+        "I'd pay a little more for it.": 70,
+        "I wouldn't pay more, but I'd pick it over an untested product at the same price.": 210,
+        "Lab results don't affect what I buy.": 55,
+	"I don't trust the lab results printed on labels.": 33,
+	"I don't buy cannabis products, so this doesn't apply to me.": 34
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.26%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}
