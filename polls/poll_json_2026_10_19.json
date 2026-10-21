@@ -1,0 +1,34 @@
+{
+  "poll_info": {
+    "poll_id": "have-you-ever-gotten-the-giggles-at-an-inconvenient-moment-2026-10-19",
+    "title": "NuggMD Poll: Have you ever gotten the giggles at an inconvenient moment?",
+    "date_conducted": "October 15 - October 19, 2026",
+    "sample_size": 683,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "have-you-ever-gotten-the-giggles-at-an-inconvenient-moment",
+      "question_text": "Have you ever gotten the giggles at an inconvenient moment?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Yes, all the time. I’ve made peace with it.": 142,
+        "Yes, a few times, and usually right when I needed to look serious.": 178,
+        "Yes, once, and I still cringe thinking about it.": 57,
+        "Almost, but I bit my lip and pulled it together.": 46,
+        "No, my giggles only come out around people who’d laugh too.": 128,
+	"Cannabis doesn’t usually make me laugh.": 132
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±3.75%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}
