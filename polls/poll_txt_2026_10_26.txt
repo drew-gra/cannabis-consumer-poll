@@ -1,0 +1,50 @@
+NuggMD Cannabis Consumer Poll
+October 15, 2026 - October 19, 2026
+Sample: 683 respondents | Margin of error: ±3.75%
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+QUESTION 1: Have you ever gotten the giggles at an inconvenient moment?
+(n=683)
+
+
+RESULTS:
+21% - Yes, all the time. I’ve made peace with it.
+26% - Yes, a few times, and usually right when I needed to look serious.
+8% - Yes, once, and I still cringe thinking about it.
+7% - Almost, but I bit my lip and pulled it together.
+19%  - No, my giggles only come out around people who’d laugh too.
+19%  - Cannabis doesn’t usually make me laugh.
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+METHODOLOGY:
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+
+CONTACT:
+Media inquiries: tyler.e@getnugg.com
+Full data and methodology: https://github.com/getnugg/cannabis-consumer-poll
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+
+Repository: https://github.com/getnugg/cannabis-consumer-poll
+Website: https://newsroom.nuggmd.com/

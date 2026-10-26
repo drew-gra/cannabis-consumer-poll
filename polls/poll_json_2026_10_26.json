@@ -1,0 +1,34 @@
+{
+  "poll_info": {
+    "poll_id": "how-much-does-a-candidates-position-on-cannabis-affect-your-vote-2026-10-26",
+    "title": "NuggMD Poll: How much does a candidate’s position on cannabis affect your vote?",
+    "date_conducted": "October 22 - October 26, 2026",
+    "sample_size": 747,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "how-much-does-a-candidates-position-on-cannabis-affect-your-vote",
+      "question_text": "How much does a candidate’s position on cannabis affect your vote?",
+      "response_type": "multiple_choice",
+      "results": {
+        "I’d vote against my usual party over it.": 95,
+        "It’s my deciding factor.": 55,
+        "It’s one of my top issues.": 218,
+        "It matters, but other issues come first.": 266,
+        "It doesn’t factor in.": 70,
+	"I’m not voting this year.": 43
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±3.59%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}
