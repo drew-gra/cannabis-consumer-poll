@@ -1,0 +1,33 @@
+{
+  "poll_info": {
+    "poll_id": "where-do-you-buy-most-of-your-thc-products-2026-11-02",
+    "title": "NuggMD Poll: Where do you buy most of your THC products?",
+    "date_conducted": "October 29 - November 2, 2026",
+    "sample_size": 571,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "where-do-you-buy-most-of-your-thc-products",
+      "question_text": "Where do you buy most of your THC products?",
+      "response_type": "multiple_choice",
+      "results": {
+        "Dispensaries": 432,
+        "Smoke or vape shops": 26,
+        "Gas stations or convenience stores": 2,
+        "Online": 50,
+        "A mix of places": 61
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.10%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}
