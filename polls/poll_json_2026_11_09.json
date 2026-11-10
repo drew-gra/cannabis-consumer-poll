@@ -1,0 +1,33 @@
+{
+  "poll_info": {
+    "poll_id": "do_you_care_if_your_dispensary_is_federally_registered-2026-11-09",
+    "title": "NuggMD Poll: Do you care if your dispensary is federally registered?",
+    "date_conducted": "November 5 - November 9, 2026",
+    "sample_size": 682,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "do_you_care_if_your_dispensary_is_federally_registered",
+      "question_text": "Do you care if your dispensary is federally registered?",
+      "response_type": "multiple_choice",
+      "results": {
+        "I care a lot": 250,
+        "I care a little": 107,
+        "I don't really care": 120,
+        "I don't care at all": 79,
+        "I'm not sure yet": 126
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±3.75%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

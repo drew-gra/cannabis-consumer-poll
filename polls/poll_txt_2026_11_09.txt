@@ -1,0 +1,49 @@
+NuggMD Cannabis Consumer Poll
+November 5, 2026 - November 9, 2026
+Sample: 682 respondents | Margin of error: ±3.75%
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+QUESTION 1: More than 900 medical dispensaries are now registered with the DEA, putting them under federal rules for security, recordkeeping, and sourcing. Do you care if your dispensary is federally registered?
+(n=682)
+
+
+RESULTS:
+36.7% - I care a lot
+15.7% - I care a little
+17.6% - I don't really care
+11.6% - I don't care at all
+18.4%  - I'm not sure yet
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+METHODOLOGY:
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+
+CONTACT:
+Media inquiries: tyler.e@getnugg.com
+Full data and methodology: https://github.com/getnugg/cannabis-consumer-poll
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+
+Repository: https://github.com/getnugg/cannabis-consumer-poll
+Website: https://newsroom.nuggmd.com/
