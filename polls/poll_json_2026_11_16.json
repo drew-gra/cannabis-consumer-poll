@@ -1,0 +1,32 @@
+{
+  "poll_info": {
+    "poll_id": "when_do_you_stock_up_on_cannabis_for_thanksgiving_weekend-2026-11-16",
+    "title": "NuggMD Poll: When do you stock up on cannabis for Thanksgiving weekend?",
+    "date_conducted": "November 12 - November 16, 2026",
+    "sample_size": 560,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "when_do_you_stock_up_on_cannabis_for_thanksgiving_weekend",
+      "question_text": "When do you stock up on cannabis for Thanksgiving weekend?",
+      "response_type": "multiple_choice",
+      "results": {
+        "The day before Thanksgiving (Green Wednesday).": 80,
+        "Earlier in the week.": 101,
+        "I wait for Black Friday deals.": 84,
+        "I don’t stock up. I buy on my normal schedule.": 295
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.14%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

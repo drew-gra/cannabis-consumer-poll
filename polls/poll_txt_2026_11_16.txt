@@ -1,0 +1,48 @@
+NuggMD Cannabis Consumer Poll
+November 12, 2026 - November 16, 2026
+Sample: 560 respondents | Margin of error: ±4.14%
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+QUESTION 1: When do you stock up on cannabis for Thanksgiving weekend?
+(n=560)
+
+
+RESULTS:
+14.3% - The day before Thanksgiving (Green Wednesday).
+18.0% - Earlier in the week.
+15.0% - I wait for Black Friday deals.
+52.7% - I don’t stock up. I buy on my normal schedule.
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+METHODOLOGY:
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+
+CONTACT:
+Media inquiries: tyler.e@getnugg.com
+Full data and methodology: https://github.com/getnugg/cannabis-consumer-poll
+
+
+═══════════════════════════════════════════════════════════════════
+
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+
+Repository: https://github.com/getnugg/cannabis-consumer-poll
+Website: https://newsroom.nuggmd.com/
