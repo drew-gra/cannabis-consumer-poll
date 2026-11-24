@@ -1,0 +1,34 @@
+{
+  "poll_info": {
+    "poll_id": "what-helps-you-MOST-with-holiday-stress-2026-11-23",
+    "title": "NuggMD Poll: What Helps You MOST with Holiday Stress?",
+    "date_conducted": "November 19 - November 23, 2026",
+    "sample_size": 463,
+    "methodology": "Digital questionnaire sent to opt-in list of verified cannabis consumers via NuggMD.com first-party data"
+  },
+  "questions": [
+    {
+      "question_id": "what_helps_you_MOST_with_holiday_stress",
+      "question_text": "What helps you MOST with holiday stress?",
+      "response_type": "multiple_choice",
+      "results": {
+        "A cannabis break": 242,
+        "A good drink": 29,
+        "A long walk or workout": 49,
+        "A few hours completely alone": 89,
+        "A night out with friends": 8,
+	"A cozy TV, game, or book binge": 46
+      }
+    }
+  ],
+  "demographics": {
+    "population": "Representative sample of cannabis consumers in state-legal markets",
+    "sample_method": "Sourced from independent providers of verified consumer data and first-party data",
+    "verification": "Regular cannabis users. A strong majority of the sample reports daily or weekly cannabis use."
+  },
+  "notes": {
+    "margin_of_error": "±4.55%",
+    "confidence_level": "95%",
+    "z_score": "1.96"
+  }
+}

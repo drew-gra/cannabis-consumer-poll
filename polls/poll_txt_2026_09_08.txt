@@ -1,0 +1,38 @@
+NuggMD Cannabis Consumer Poll
+September 3, 2026 - September 8, 2026
+Sample: 605 respondents | Margin of error: ±3.98%
+
+═══════════════════════════════════════════════════════════════════
+
+QUESTION 1: Have you ever hidden your cannabis use from a loved one?
+(n=605)
+
+RESULTS:
+14% - Yes, I keep my cannabis use private.
+28% - Yes, but only for specific family/loved ones.
+29% - I used to, but I don't hide my use anymore.
+29% - No, I've never hidden my consumption.
+
+═══════════════════════════════════════════════════════════════════
+
+METHODOLOGY:
+Digital questionnaire sent to verified, representative sample of cannabis consumers in state-legal markets. Targeted sampling from verified consumer database with multi-point validation including consumption verification, attention checks, and statistical outlier detection.
+
+SAMPLE DETAILS:
+- Population: Representative sample of cannabis consumers in state-legal markets
+- Survey Method: Digital questionnaire via secure online platform
+- Confidence Level: 95%
+- Z-score: 1.96
+
+CONTACT:
+Media inquiries: tyler.e@getnugg.com
+Full data and methodology: https://github.com/getnugg/cannabis-consumer-poll
+
+═══════════════════════════════════════════════════════════════════
+
+About NuggMD Cannabis Consumer Poll:
+The NuggMD Cannabis Consumer Poll surveys a validated, representative
+sample of 1.2+ million cannabis consumers in state-legal markets.
+
+Repository: https://github.com/getnugg/cannabis-consumer-poll
+Website: https://newsroom.nuggmd.com/
